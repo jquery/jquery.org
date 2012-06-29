@@ -46,3 +46,52 @@
   margin: 0 0 0 2%;
   border-left: 1px solid #e6e6e6; }
 #jquery_team h3 { font-size: 20px; }
+#history header.historySection {
+	color: #fff;
+	font-size: 60px;
+	font-family: Arial;
+	font-weight: bold;
+}
+#history header p {
+	color: #fff;
+	font-size: 22px !important;
+	font-weight: normal;
+	margin: 0 auto;
+	width: 70%;
+}
+#history header {
+	background: url(../images/bg_heading.png);
+	min-height: 175px;
+	text-align: center;
+}
+h2.yearSectionHead {
+	background: url(../images/lightCheckerPtn.png);
+	color: #008b9f;
+	display: block;
+	font-size: 40px;
+	font-weight: normal;
+	margin: 0 auto;
+}
+div.yearMonthSubSection {
+	margin: 0 auto;
+}
+div.yearMonthSubSection h2 {
+	color: #B71551;
+	font-size: 30px;
+	font-weight: normal;
+	padding-top: 20px;
+}
+div.yearMonthSubSection ul {
+	border-bottom: 1px solid #ccc;
+	padding-bottom: 20px;
+}
+div.yearMonthSubSection ul li {
+	font-size: 15px;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	text-align: left;
+}
+div.yearSection {
+	padding: 34px 48px 0 48px;
+}
