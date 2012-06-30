@@ -1,3 +1,30 @@
+.subheading {
+  padding: 10px;
+  margin: 0 0 30px;
+  font-size: 24px;
+  font-weight: normal;
+  text-align: center;
+  color: #B71551;
+  background: transparent url("../images/bg_subheading.png") repeat;
+}
+
+#body { padding: 0 48px; }
+#body section header {
+  padding: 50px 20px;
+  margin: 0 -48px 35px -48px;
+  color: #ffffff;
+  text-align: center;
+  background: transparent url("../images/bg_heading.png") repeat;
+}
+#body section header h1 {
+  font: bold 60px Helvetica, Arial, sans-serif;
+}
+#body section header p {
+  margin: 0;
+  font-size: 22px;
+  color: #cccccc;
+}
+
 #team h2 {
   padding: 10px 20px;
   margin: 0 0 35px 0;
@@ -6,9 +33,7 @@
 }
 #team h3 { font-size: 15px; }
 
-#board {
-  padding: 0 48px;
-  overflow: hidden; }
+#board { overflow: hidden; }
 #board article {
   float: left;
   width: 242px;
@@ -29,9 +54,7 @@
   border-bottom: 1px solid #e6e6e6;
 }
 
-#jquery_team {
-  padding: 0 48px;
-  overflow: hidden; }
+#jquery_team { overflow: hidden; }
 #jquery_team p { color: #008B9F; }
 #jquery_team > p {
   padding: 0 0 20px 0;
@@ -46,52 +69,76 @@
   margin: 0 0 0 2%;
   border-left: 1px solid #e6e6e6; }
 #jquery_team h3 { font-size: 20px; }
-#history header.historySection {
-	color: #fff;
-	font-size: 60px;
-	font-family: Arial;
-	font-weight: bold;
-}
-#history header p {
-	color: #fff;
-	font-size: 22px !important;
-	font-weight: normal;
-	margin: 0 auto;
-	width: 70%;
-}
-#history header {
-	background: url(../images/bg_heading.png);
-	min-height: 175px;
-	text-align: center;
-}
-h2.yearSectionHead {
-	background: url(../images/lightCheckerPtn.png);
-	color: #008b9f;
-	display: block;
-	font-size: 40px;
-	font-weight: normal;
-	margin: 0 auto;
-}
+
 div.yearMonthSubSection {
-	margin: 0 auto;
+  margin: 0 auto;
 }
 div.yearMonthSubSection h2 {
-	color: #B71551;
-	font-size: 30px;
-	font-weight: normal;
-	padding-top: 20px;
+  color: #B71551;
+  font-size: 30px;
+  font-weight: normal;
+  padding-top: 20px;
 }
 div.yearMonthSubSection ul {
-	border-bottom: 1px solid #ccc;
-	padding-bottom: 20px;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 20px;
 }
 div.yearMonthSubSection ul li {
-	font-size: 15px;
-	list-style: none;
-	margin: 0;
-	padding: 0;
-	text-align: left;
+  font-size: 15px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  text-align: left;
 }
 div.yearSection {
-	padding: 34px 48px 0 48px;
+  padding: 34px 48px 0 48px;
 }
+
+#foundation { font-size: 15px; }
+#foundation section {
+  float: left;
+  width: 50%; }
+#foundation section > h1 {
+  padding: 0 0 30px 0;
+  font-size: 40px;
+  font-weight: normal;
+  text-align: center;
+  color: #008B9F; }
+#foundation #corporate {
+  width: 44%;
+  padding: 0 6% 0 0; }
+#corporate li {
+  overflow: hidden;
+  margin: 0 0 30px 0;
+  list-style: none
+}
+#corporate li + li {
+  padding: 30px 0 0 0;
+  border-top: 1px solid #e6e6e6;
+}
+#corporate li img {
+  float: left;
+  margin: 0 20px 0 0; }
+#corporate li p {
+  overflow: hidden;
+  line-height: 150%;
+}
+#individual ul {
+  overflow: hidden;
+  margin: 0 0 0 -30px; }
+#individual li {
+  float: left;
+  width: 200px;
+  padding: 0 0 20px 0;
+  margin: 0 0 20px 30px;
+  list-style: none;
+  font-size: 14px;
+  border-bottom: 1px solid #e6e6e6;
+}
+#individual li h2 {
+  padding: 0 0 5px 0;
+  margin: 0;
+  font-size: 18px; }
+#individual li p {
+  margin: 0;
+  line-height: 150%; }
