@@ -17,11 +17,12 @@
   background: transparent url("../images/bg_heading.png") repeat;
 }
 #body section header h1 {
-  font: bold 60px Helvetica, Arial, sans-serif;
+  padding: 0 0 5px 0;
+  font: bold 48px Helvetica, Arial, sans-serif;
 }
 #body section header p {
   margin: 0;
-  font-size: 22px;
+  font-size: 18px;
   color: #cccccc;
 }
 
@@ -69,30 +70,6 @@
   margin: 0 0 0 2%;
   border-left: 1px solid #e6e6e6; }
 #jquery_team h3 { font-size: 20px; }
-
-div.yearMonthSubSection {
-  margin: 0 auto;
-}
-div.yearMonthSubSection h2 {
-  color: #B71551;
-  font-size: 30px;
-  font-weight: normal;
-  padding-top: 20px;
-}
-div.yearMonthSubSection ul {
-  border-bottom: 1px solid #ccc;
-  padding-bottom: 20px;
-}
-div.yearMonthSubSection ul li {
-  font-size: 15px;
-  list-style: none;
-  margin: 0;
-  padding: 0;
-  text-align: left;
-}
-div.yearSection {
-  padding: 34px 48px 0 48px;
-}
 
 #foundation { font-size: 15px; }
 #foundation section {
@@ -142,3 +119,24 @@ div.yearSection {
 #individual li p {
   margin: 0;
   line-height: 150%; }
+
+#history article { padding: 0 0 20px 0; }
+#history li {
+  margin: 0;
+  list-style: none;
+}
+#history article + article {
+  padding-top: 20px;
+  border-top: 1px solid #e6e6e6; }
+#history h2.subheading {
+  padding: 10px;
+  font-size: 32px;
+  font-weight: normal;
+  text-align: left;
+  color: #008B9F; }
+#history article h1 {
+  padding: 0 0 10px 0;
+  font-size: 24px;
+  font-weight: normal;
+  color: #B71551; }
+#history li { line-height: 150%; }
