@@ -8,7 +8,7 @@
   background: transparent url("../images/bg_subheading.png") repeat;
 }
 
-#body { padding: 0 48px; }
+#body > section { padding: 0 48px; }
 #body section header {
   padding: 50px 20px;
   margin: 0 -48px 35px -48px;
@@ -140,3 +140,71 @@
   font-weight: normal;
   color: #B71551; }
 #history li { line-height: 150%; }
+
+#meetings {
+  overflow: hidden;
+  padding-bottom: 30px; }
+#meetings article {
+  float: left;
+  width: 48%; }
+#meetings #connect { padding: 0 4% 0 0; }
+#meetings article > h1 {
+  padding: 0 0 30px 0;
+  font-size: 30px;
+  font-weight: normal;
+  text-align: center;
+  color: #008B9F; }
+#meetings article p { line-height: 150%; }
+#meetings form {
+  padding: 20px 25px;
+  background: #f2f2f2; }
+#meetings form h1 {
+  padding: 0 0 30px 0;
+  font-size: 28px; }
+#meetings form dl {
+  overflow: hidden;
+  padding: 0 0 15px 0; }
+#meetings form dt {
+  float: left;
+  width: 25%;
+  padding: 12px 5% 0 0;
+  text-align: right; }
+#meetings form dd { overflow: hidden; }
+#meetings form input[type="text"] {
+  width: 68%;
+  height: 32px;
+  padding: 3px 5px;
+  border: 1px solid #cccccc;
+  -o-border-radius: 3px;
+  -webkit-border-radius: 3px;
+  border-radius: 3px; }
+#meetings form input[type="checkbox"] { margin: 15px 0 10px 0; }
+#meetings form fieldset.actions {
+  padding: 0 0 0 30%;
+  margin: 0 0 0 -4px;
+}
+#meetings form fieldset.actions button[type="submit"] {
+  position: relative;
+  overflow: hidden;
+  padding: 7px 15px;
+  font: bold 16px "Gotham-Bold", Gotham, Helvetica, sans-serif;
+  color: #ffffff;
+  text-shadow: 0 -1px 1px rgba(0, 0, 0, .5);
+  border: 1px solid #c17833;
+  background: #d58f49;
+  box-shadow: 0 0 5px rgba(0, 0, 0, .3);
+  -o-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px; }
+#meetings form fieldset.actions button[type="submit"]:before {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 1;
+  content: "";
+  border: 1px solid #e1bf82;
+  -o-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px; }
