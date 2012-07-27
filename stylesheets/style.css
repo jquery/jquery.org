@@ -1,0 +1,213 @@
+.subheading {
+  padding: 10px;
+  margin: 0 0 30px;
+  font-size: 24px;
+  font-weight: normal;
+  text-align: center;
+  color: #B71551;
+  background: transparent url("../images/bg_subheading.png") repeat;
+}
+
+#body > section { padding: 0 48px; }
+#body section header {
+  padding: 50px 20px;
+  margin: 0 -48px 35px -48px;
+  color: #ffffff;
+  text-align: center;
+  background: transparent url("../images/bg_heading.png") repeat;
+}
+#body section header h1 {
+  padding: 0 0 5px 0;
+  font: bold 48px Helvetica, Arial, sans-serif;
+}
+#body section header p {
+  margin: 0;
+  font-size: 18px;
+  color: #cccccc;
+}
+
+#team h2 {
+  padding: 10px 20px;
+  margin: 0 0 35px 0;
+  font: bold 36px "Gotham-Bold", Helvetica, sans-serif;
+  text-align: center;
+}
+#team h3 { font-size: 15px; }
+
+#board { overflow: hidden; }
+#board article {
+  float: left;
+  width: 242px;
+  padding: 0 34px 0 0; }
+#board article figure { margin: 0 0 15px 0; }
+#board article figure img { display: block; }
+#board article h1 {
+  padding: 0 0 5px 0;
+  font-size: 20px;
+  text-align: center;
+}
+#board article h2 {
+  padding: 0 0 10px 0;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: italic;
+  color: #1172b6;
+  border-bottom: 1px solid #e6e6e6;
+}
+
+#jquery_team { overflow: hidden; }
+#jquery_team p { color: #008B9F; }
+#jquery_team > p {
+  padding: 0 0 20px 0;
+  text-align: center;
+  color: #b71551; }
+#jquery_team ul {
+  float: left;
+  width: 20%;
+  list-style: none; }
+#jquery_team ul + ul {
+  padding: 0 0 0 2%;
+  margin: 0 0 0 2%;
+  border-left: 1px solid #e6e6e6; }
+#jquery_team h3 { font-size: 20px; }
+
+#foundation { font-size: 15px; }
+#foundation section {
+  float: left;
+  width: 50%; }
+#foundation section > h1 {
+  padding: 0 0 30px 0;
+  font-size: 40px;
+  font-weight: normal;
+  text-align: center;
+  color: #008B9F; }
+#foundation #corporate {
+  width: 44%;
+  padding: 0 6% 0 0; }
+#corporate li {
+  overflow: hidden;
+  margin: 0 0 30px 0;
+  list-style: none
+}
+#corporate li + li {
+  padding: 30px 0 0 0;
+  border-top: 1px solid #e6e6e6;
+}
+#corporate li img {
+  float: left;
+  margin: 0 20px 0 0; }
+#corporate li p {
+  overflow: hidden;
+  line-height: 150%;
+}
+#individual ul {
+  overflow: hidden;
+  margin: 0 0 0 -30px; }
+#individual li {
+  float: left;
+  width: 200px;
+  padding: 0 0 20px 0;
+  margin: 0 0 20px 30px;
+  list-style: none;
+  font-size: 14px;
+  border-bottom: 1px solid #e6e6e6;
+}
+#individual li h2 {
+  padding: 0 0 5px 0;
+  margin: 0;
+  font-size: 18px; }
+#individual li p {
+  margin: 0;
+  line-height: 150%; }
+
+#history article { padding: 0 0 20px 0; }
+#history li {
+  margin: 0;
+  list-style: none;
+}
+#history article + article {
+  padding-top: 20px;
+  border-top: 1px solid #e6e6e6; }
+#history h2.subheading {
+  padding: 10px;
+  font-size: 32px;
+  font-weight: normal;
+  text-align: left;
+  color: #008B9F; }
+#history article h1 {
+  padding: 0 0 10px 0;
+  font-size: 24px;
+  font-weight: normal;
+  color: #B71551; }
+#history li { line-height: 150%; }
+#history a {
+	color: #333333;
+	text-decoration: none;
+}
+#meetings {
+  overflow: hidden;
+  padding-bottom: 30px; }
+#meetings article {
+  float: left;
+  width: 48%; }
+#meetings #connect { padding: 0 4% 0 0; }
+#meetings article > h1 {
+  padding: 0 0 30px 0;
+  font-size: 30px;
+  font-weight: normal;
+  text-align: center;
+  color: #008B9F; }
+#meetings article p { line-height: 150%; }
+#meetings form {
+  padding: 20px 25px;
+  background: #f2f2f2; }
+#meetings form h1 {
+  padding: 0 0 30px 0;
+  font-size: 28px; }
+#meetings form dl {
+  overflow: hidden;
+  padding: 0 0 15px 0; }
+#meetings form dt {
+  float: left;
+  width: 25%;
+  padding: 12px 5% 0 0;
+  text-align: right; }
+#meetings form dd { overflow: hidden; }
+#meetings form input[type="text"] {
+  width: 68%;
+  height: 32px;
+  padding: 3px 5px;
+  border: 1px solid #cccccc;
+  -o-border-radius: 3px;
+  -webkit-border-radius: 3px;
+  border-radius: 3px; }
+#meetings form input[type="checkbox"] { margin: 15px 0 10px 0; }
+#meetings form fieldset.actions {
+  padding: 0 0 0 30%;
+  margin: 0 0 0 -4px;
+}
+#meetings form fieldset.actions button[type="submit"] {
+  position: relative;
+  overflow: hidden;
+  padding: 7px 15px;
+  font: bold 16px "Gotham-Bold", Gotham, Helvetica, sans-serif;
+  color: #ffffff;
+  text-shadow: 0 -1px 1px rgba(0, 0, 0, .5);
+  border: 1px solid #c17833;
+  background: #d58f49;
+  box-shadow: 0 0 5px rgba(0, 0, 0, .3);
+  -o-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px; }
+#meetings form fieldset.actions button[type="submit"]:before {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 1;
+  content: "";
+  border: 1px solid #e1bf82;
+  -o-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px; }
