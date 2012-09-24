@@ -140,7 +140,10 @@
   font-weight: normal;
   color: #B71551; }
 #history li { line-height: 150%; }
-
+#history a {
+	color: #333333;
+	text-decoration: none;
+}
 #meetings {
   overflow: hidden;
   padding-bottom: 30px; }
