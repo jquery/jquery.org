@@ -1,43 +1,33 @@
 <script>
-  {
+{
     "title": "Meetings"
-  }
+}
 </script>
-<p>Public meetings held by the jQuery team to organize various aspects of the jQuery project.</p>
-<article id="connect">
-  <h1>Connect to #jquery-meeting</h1>
-  <p>The jQuery team hosts all of its meeting in the #jquery-meeting IRC channel on Freenode.net. Normally everyone in the channel is muted unless a meeting is going on. Please be respectful to those participating. You can connect to the channel using an IRC client or through the web form below:</p>
-  <form action="" method="post">
-    <fieldset>
-      <h1>Connect to freenode IRC</h1>
-      <dl>
-        <dt><label for="nickname">Nickname:</label></dt>
-        <dd><input type="text" name="nickname" id="nickname" /></dd>
-      </dl>
-      <dl>
-        <dt><label for="channels">Channels:</label></dt>
-        <dd><input type="text" name="channels" id="channels" /></dd>
-      </dl>
-      <dl>
-        <dt><label for="auth">Auth to services:</label></dt>
-        <dd><input type="checkbox" name="auth" id="auth" /></dd>
-      </dl>
-      <dl>
-        <dt><label for="captcha">ReCAPTCHA:</label></dt>
-        <dd><img data-src="/placeholder/311x74" alt="Captcha" /></dd>
-      </dl>
-      <dl>
-        <dt><label for="audio_captcha">Audio CAPTCHA:</label></dt>
-        <dd><input type="checkbox" name="audio_captcha" id="audio_captcha" /></dd>
-      </dl>
-    </fieldset>
-    <fieldset class="actions">
-      <button type="submit">Connect</button>
-    </fieldset>
-  </form>
-</article>
 
-<article id="schedule">
-  <h1>Meeting Schedule</h1>
-  <img data-src="/placeholder/440x500" alt="iframe for Google Calendar" />
-</article>
+<div id="banner-secondary" class="large-banner">
+    <h1>Meetings</h1>
+    <p>Public meetings held by the jQuery team to organize various aspects of the jQuery project.</p>
+</div>
+
+<div id="content">
+
+    <div class="row">
+        <div class="six mobile columns">
+            <h1>Connect to #jquery-meeting</h1>
+
+            <p>The jQuery team hosts all of its meeting in the #jquery-meeting IRC channel on Freenode.net. Normally everyone in the channel is muted unless a meeting is going on. Please be respectful to those participating. You can connect to the channel using an IRC client or through the web form below:</p>
+
+            <iframe src="http://webchat.freenode.net/?channels=jquery-meeting&#038;uio=OT10cnVlJjEwPXRydWUmMTE9NTE53" width="100%" height="400"></iframe>
+
+        </div><!-- /.six.columns -->
+
+        <div class="six columns">
+            <h1>Meeting Schedule</h1><!-- There should only be one h1 per page? -->
+
+            <iframe src="https://www.google.com/calendar/embed?title=jQuery%20Team%20Meetings&amp;showTitle=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;mode=WEEK&amp;height=400&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=jquery.com_ucvu273d4ae0hl1jloc60th1to%40group.calendar.google.com&amp;color=%2342104A&amp;ctz=America%2FNew_York" style=" border-width:0 " width="100%" height="500" frameborder="0" scrolling="no"></iframe>
+
+        </div><!-- /.six-columns -->
+
+    </div><!--/.row -->
+
+</div><!--/#content -->
