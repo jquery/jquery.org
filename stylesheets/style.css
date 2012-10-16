@@ -5,7 +5,7 @@
   font-weight: normal;
   text-align: center;
   color: #B71551;
-  background: transparent url("../images/bg_subheading.png") repeat;
+  background: transparent url("../resources/images-foundation/bg_subheading.png") repeat;
 }
 
 #body > section { padding: 0 48px; }
@@ -14,7 +14,7 @@
   margin: 0 -48px 35px -48px;
   color: #ffffff;
   text-align: center;
-  background: transparent url("../images/bg_heading.png") repeat;
+  background: transparent url("../resources/images-foundation/bg_heading.png") repeat;
 }
 #body section header h1 {
   padding: 0 0 5px 0;
