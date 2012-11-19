@@ -30,7 +30,7 @@ grunt.initConfig({
 		}
 	},
 	"build-pages": {
-		all: grunt.file.expandFiles( "pages/**/*.html" )
+		all: grunt.file.expandFiles( "page/**/*.html" )
 	},
 	"build-resources": {
 		all: grunt.file.expandFiles( "resources/**" )
