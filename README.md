@@ -12,3 +12,12 @@ The `xmllint` and `xsltproc` utilities need to be in your path. If you are on Wi
 ### Build
 
 To build and deploy your changes for previewing in a [jquery-wp-content](https://github.com/jquery/jquery-wp-content) instance, follow the [workflow instructions](http://contribute.jquery.org/web-sites/#workflow) from our documentation on [contributing to jQuery Foundation web sites](http://contribute.jquery.org/web-sites/).
+
+### Stripe Integration
+
+In order to test the member join page, you will need a [Stripe](https://stripe.com/) account. Once you've created an account, you'll need to add your test keys to your `wp-config.php` file in the WordPress install that you're using for [jquery-wp-content](https://github.com/jquery/jquery-wp-content).
+
+```php
+define( 'STRIPE_PUBLIC', 'your-public-key-here' );
+define( 'STRIPE_SECRET', 'your-secret-key-here' );
+```
