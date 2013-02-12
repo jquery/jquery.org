@@ -21,3 +21,5 @@ In order to test the member join page, you will need a [Stripe](https://stripe.c
 define( 'STRIPE_PUBLIC', 'your-public-key-here' );
 define( 'STRIPE_SECRET', 'your-secret-key-here' );
 ```
+
+You will also need to create plans in your Stripe account with the following ids: `fan-3mo`, `fan-12mo`, `friend-3mo`, `friend-12mo`, `hero-3mo`, `hero-12mo`. You can enter any information you want for the rest of the plan details, only the id is important for this integration.
