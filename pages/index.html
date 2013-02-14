@@ -1,16 +1,15 @@
 <script>
 	{
 		"title": "The jQuery Foundation",
+		"pageTemplate": "page-fullwidth.php",
 		"customFields": [
-			{
-				"key": "body_class",
-				"value": "content-full full-width"
-			}
+			{ "key": "hide_title", "value": 1 }
 		]
 	}
 </script>
 
 <div id="banner-secondary" class="large-banner">
+	<h1>The jQuery Foundation</h1>
 	<img class="#" src="/resources/home/foundation-logos.png" alt="image">
 	<p>Supporting the advancement of the web through Javascript</p>
 </div>
@@ -19,9 +18,8 @@
 	<p>Managing all of the jQuery projects, including: jQuery Core, jQuery UI, jQuery Mobile, Sizzle and QUnit.</p>
 </div>
 
-<div id="content" class="clearfix">
-	<div class="row">
-		<div class="six columns">
+<div id="home-content" class="clearfix row">
+		<section class="six columns">
 			<h2 class="slider-heading">jQuery Foundation Members</h2>
 			<div class="flexslider">
 				<ul class="slides clearfix">
@@ -33,9 +31,9 @@
 					</li>
 				</ul>
 			</div>
-		</div>
+		</section>
 
-		<div class="six columns">
+		<section class="six columns">
 			<h2 class="slider-heading">jQuery Foundation Sponsors</h2>
 			<div class="flexslider">
 				<ul class="slides clearfix">
@@ -47,68 +45,62 @@
 					</li>
 				</ul>
 			</div>
-		</div>
-	</div>
+		</section>
 
-	<div class="row">
-		<div class="twelve columns dark-callout-box">
-			<h3>The Purpose of The jQuery Foundation</h3>
-			<p>The jQuery Foundation is a non-profit trade association dedicated to supporting development of the jQuery Core, jQuery UI, and jQuery Mobile projects; providing jQuery documentation and support; and fostering the jQuery community.</p>
-		</div>
-	</div>
+	<section class="twelve columns dark-callout-box">
+		<h3>The Purpose of The jQuery Foundation</h3>
+		<p>The jQuery Foundation is a non-profit trade association dedicated to supporting development of the jQuery Core, jQuery UI, and jQuery Mobile projects; providing jQuery documentation and support; and fostering the jQuery community.</p>
+	</section>
 
-	<div class="row">
-		<div class="twelve columns centered">
-			<div class="project clearfix">
-				<img class="#" src="/resources/home/icn-jquery-logo.png" width="115" alt="jQuery">
-				<div class="project-text">
-					<h4>jQuery Core</h4>
-					<p>Whether you’re a global advertising agency or a small business, PBworks lets your team capture knowledge, share files, and manage projects. It tracks every change, and automatically notifies you and your team to keep everyone in the loop. </p>
-					<a class="button" href="#">View Project</a>
-				</div>
+
+	<section class="twelve columns centered">
+		<div class="project clearfix">
+			<img class="#" src="/resources/home/icn-jquery-logo.png" width="115" alt="jQuery">
+			<div class="project-text">
+				<h4>jQuery Core</h4>
+				<p>Whether you’re a global advertising agency or a small business, PBworks lets your team capture knowledge, share files, and manage projects. It tracks every change, and automatically notifies you and your team to keep everyone in the loop. </p>
+				<a class="button" href="#">View Project</a>
 			</div>
 		</div>
-	</div>
-
-	<div class="row">
-		<div class="six columns">
-			<div class="project clearfix">
-				<img class="#" src="/resources/home/icn-jquerymobile-logo.png" width="115" alt="jQuery Mobile">
-				<div class="project-text">
-					<h4>jQuery Mobile</h4>
-					<p>Whether you’re a global advertising agency or a small business, PBworks lets your team capture knowledge, share files, and manage projects. It tracks every change, and automatically notifies you and your team to keep everyone in the loop. </p>
-					<a class="button" href="#">View Project</a>
-				</div>
-			</div>
-
-			<div class="project clearfix">
-				<img class="#" src="/resources/home/icn-qunit-logo.png" width="115" alt="QUnit">
-				<div class="project-text">
-					<h4>QUnit</h4>
-					<p>Whether you’re a global advertising agency or a small business, PBworks lets your team capture knowledge, share files, and manage projects. It tracks every change, and automatically notifies you and your team to keep everyone in the loop. </p>
-					<a class="button" href="#">View Project</a>
-				</div>
+	</section>
+	
+	<section class="six columns">
+		<div class="project clearfix">
+			<img class="#" src="/resources/home/icn-jquerymobile-logo.png" width="115" alt="jQuery Mobile">
+			<div class="project-text">
+				<h4>jQuery Mobile</h4>
+				<p>Whether you’re a global advertising agency or a small business, PBworks lets your team capture knowledge, share files, and manage projects. It tracks every change, and automatically notifies you and your team to keep everyone in the loop. </p>
+				<a class="button" href="#">View Project</a>
 			</div>
 		</div>
 
-		<div class="six columns">
-			<div class="project clearfix">
-				<img class="#" src="/resources/home/icn-ui-logo.png" width="115" alt="jQuery UI">
-				<div class="project-text">
-					<h4>jQuery UI</h4>
-					<p>Whether you’re a global advertising agency or a small business, PBworks lets your team capture knowledge, share files, and manage projects. It tracks every change, and automatically notifies you and your team to keep everyone in the loop. </p>
-					<a class="button" href="#">View Project</a>
-				</div>
-			</div>
-
-			<div class="project clearfix">
-				<img class="#" src="/resources/home/icn-sizzle-logo.png" width="115" alt="Sizzle">
-				<div class="project-text">
-					<h4>Sizzle</h4>
-					<p>Whether you’re a global advertising agency or a small business, PBworks lets your team capture knowledge, share files, and manage projects. It tracks every change, and automatically notifies you and your team to keep everyone in the loop. </p>
-					<a class="button" href="#">View Project</a>
-				</div>
+		<div class="project clearfix">
+			<img class="#" src="/resources/home/icn-qunit-logo.png" width="115" alt="QUnit">
+			<div class="project-text">
+				<h4>QUnit</h4>
+				<p>Whether you’re a global advertising agency or a small business, PBworks lets your team capture knowledge, share files, and manage projects. It tracks every change, and automatically notifies you and your team to keep everyone in the loop. </p>
+				<a class="button" href="#">View Project</a>
 			</div>
 		</div>
-	</div>
+	</section>
+
+	<section class="six columns">
+		<div class="project clearfix">
+			<img class="#" src="/resources/home/icn-ui-logo.png" width="115" alt="jQuery UI">
+			<div class="project-text">
+				<h4>jQuery UI</h4>
+				<p>Whether you’re a global advertising agency or a small business, PBworks lets your team capture knowledge, share files, and manage projects. It tracks every change, and automatically notifies you and your team to keep everyone in the loop. </p>
+				<a class="button" href="#">View Project</a>
+			</div>
+		</div>
+
+		<div class="project clearfix">
+			<img class="#" src="/resources/home/icn-sizzle-logo.png" width="115" alt="Sizzle">
+			<div class="project-text">
+				<h4>Sizzle</h4>
+				<p>Whether you’re a global advertising agency or a small business, PBworks lets your team capture knowledge, share files, and manage projects. It tracks every change, and automatically notifies you and your team to keep everyone in the loop. </p>
+				<a class="button" href="#">View Project</a>
+			</div>
+		</div>
+	</section>
 </div>

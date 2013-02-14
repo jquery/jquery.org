@@ -1,271 +1,263 @@
 <script>
 {
 	"title": "Join The jQuery Foundation",
-	"customFields" : [
-		{
-			"key" : "subtitle",
-			"value" : "Your support helps us keep the jQuery project going strong."
-		},
-		{
-			"key": "full-width",
-			"value": 1
-		},
-		{
-			"key": "banner-image",
-			"value": 1
-		}
+	"pageTemplate": "page-fullwidth.php",
+	"customFields": [
+		{ "key": "hide_title", "value": 1 }
 	]
 }
 </script>
 
-<h1>Membership</h1>
-<p>
-	The Hitchhiker’s Guide to the Galaxy has a few things to say on the subject of towels. A towel, it says, is about the most massively useful thing an interstellar hitch hiker can have. Partly it has great practical value — you can wrap it around you for warmth as you bound across the cold moons of Jaglan Beta; you can lie on it on the brilliant marble‐sanded beaches of Santraginus V, inhaling the heady sea vapours; you can sleep under it beneath the stars which shine so redly on the desert world of Kakrafoon; use it to sail a mini raft down the slow heavy river Moth; wet it for use in hand‐to‐hand‐combat; wrap it round your head to ward off noxious fumes or to avoid the gaze of the Ravenous Bugblatter Beast of Traal (a mindbogglingly stupid animal, it assumes that if you can't see it, it can't see you &mdash; daft as a bush, but very ravenous); you can wave your towel in emergencies as a distress signal, and of course dry yourself off with it if it still seems to be clean enough.
-</p>
-
-<hr>
-
-
-<div class="member-level">
-	<h3>Fan</h3>
-	<a class="icon-search enlarge" href="/resources/join/gifts-tshirt-large.jpg" rel="goodies">
-		<img src="/resources/join/gifts-tshirt-small.jpg" width="100" height="100" alt="image">
-	</a>
-	<ul class="gifts">
-		<li><strong>2013 Annual Gift:</strong> T-shirt</li>
-		<li>
-			<strong>Other Goodies:</strong><br>
-			Stickers, buttons,<br>
-			badges, discounts
-		</li>
-	</ul>
-
-	<p class="clearfix">Plus access to individual members only
-	benefits at jQuery Foundation events,
-	and recognition on the Foundation website.</p>
-
-	<button class="button join">Join Now</button>
-
-	<div class="member-level-icon fan"></div>
-
-	<div class="choose-gifts">
-		<form method="post" action="">
-
-			<h4>Choose your 2013 gifts and dues schedule:</h4>
-
-			<select name="tshirt">
-				<option value="">T-shirt Size</option>
-				<option>Men's Small</option>
-				<option>Men's Medium</option>
-				<option>Men's Large</option>
-				<option>Men's XL</option>
-				<option>Men's XXL</option>
-				<option>Men's XXXL</option>
-				<option>Women's Small</option>
-				<option>Women's Medium</option>
-				<option>Women's Large</option>
-				<option>Women's XL</option>
-				<option>Women's XXL</option>
-			</select>
-
-			<input type="text" name="first-name" placeholder="First Name">
-			<input type="text" name="last-name" placeholder="Last Name">
-
-			<input type="email" name="email" placeholder="Email">
-
-			<textarea name="address" placeholder="Mailing Address"></textarea>
-
-			<hr>
-
-			<ul class="errors"></ul>
-
-			<button class="button pay"
-				data-image="/resources/join/fan-128x128.png"
-				data-name="jQuery Fan"
-				data-description="Quarterly membership dues"
-				data-panel-label="Donate"
-				data-plan-id="fan-3mo"
-				data-amount="3000">Quarterly: $30</button>
-
-			<button class="button pay"
-				data-image="/resources/join/fan-128x128.png"
-				data-name="jQuery Fan"
-				data-description="Annual membership dues"
-				data-panel-label="Donate"
-				data-plan-id="fan-12mo"
-				data-amount="10000">Annual: $100</button>
-		</form>
+<div id="banner-large-image" class="large-banner">
+	<div class="vertically-centered-black-bg">
+		<h1>Join The jQuery Foundation</h1>
+		<p>Your support helps us keep the jQuery project going strong.</p>
 	</div>
 </div>
 
+<div id="home-content" class="clearfix row">
+	<section class="twelve columns">
+		<h1>Membership</h1>
+		<p>The Hitchhiker’s Guide to the Galaxy has a few things to say on the subject of towels. A towel, it says, is about the most massively useful thing an interstellar hitch hiker can have. Partly it has great practical value — you can wrap it around you for warmth as you bound across the cold moons of Jaglan Beta; you can lie on it on the brilliant marble‐sanded beaches of Santraginus V, inhaling the heady sea vapours; you can sleep under it beneath the stars which shine so redly on the desert world of Kakrafoon; use it to sail a mini raft down the slow heavy river Moth; wet it for use in hand‐to‐hand‐combat; wrap it round your head to ward off noxious fumes or to avoid the gaze of the Ravenous Bugblatter Beast of Traal (a mindbogglingly stupid animal, it assumes that if you can't see it, it can't see you &mdash; daft as a bush, but very ravenous); you can wave your towel in emergencies as a distress signal, and of course dry yourself off with it if it still seems to be clean enough.</p>
+		<hr>
+	</section>
+	
+	<section class="member-level">
+		<h3>Fan</h3>
+		<a class="icon-search enlarge" href="/resources/join/gifts-tshirt-large.jpg" rel="goodies">
+			<img src="/resources/join/gifts-tshirt-small.jpg" width="100" height="100" alt="image">
+		</a>
+		<ul class="gifts">
+			<li><strong>2013 Annual Gift:</strong> T-shirt</li>
+			<li>
+				<strong>Other Goodies:</strong><br>
+				Stickers, buttons,<br>
+				badges, discounts
+			</li>
+		</ul>
+	
+		<p class="clearfix">Plus access to individual members only
+		benefits at jQuery Foundation events,
+		and recognition on the Foundation website.</p>
+	
+		<button class="button join">Join Now</button>
+	
+		<div class="member-level-icon fan"></div>
+	
+		<div class="choose-gifts">
+			<form method="post" action="">
+	
+				<h4>Choose your 2013 gifts and dues schedule:</h4>
+	
+				<select name="tshirt">
+					<option value="">T-shirt Size</option>
+					<option>Men's Small</option>
+					<option>Men's Medium</option>
+					<option>Men's Large</option>
+					<option>Men's XL</option>
+					<option>Men's XXL</option>
+					<option>Men's XXXL</option>
+					<option>Women's Small</option>
+					<option>Women's Medium</option>
+					<option>Women's Large</option>
+					<option>Women's XL</option>
+					<option>Women's XXL</option>
+				</select>
+	
+				<input type="text" name="first-name" placeholder="First Name">
+				<input type="text" name="last-name" placeholder="Last Name">
+	
+				<input type="email" name="email" placeholder="Email">
+	
+				<textarea name="address" placeholder="Mailing Address"></textarea>
+	
+				<hr>
+	
+				<ul class="errors"></ul>
+	
+				<button class="button pay"
+					data-image="/resources/join/fan-128x128.png"
+					data-name="jQuery Fan"
+					data-description="Quarterly membership dues"
+					data-panel-label="Donate"
+					data-plan-id="fan-3mo"
+					data-amount="3000">Quarterly: $30</button>
+	
+				<button class="button pay"
+					data-image="/resources/join/fan-128x128.png"
+					data-name="jQuery Fan"
+					data-description="Annual membership dues"
+					data-panel-label="Donate"
+					data-plan-id="fan-12mo"
+					data-amount="10000">Annual: $100</button>
+			</form>
+		</div>
+	</section>
 
+	<section class="member-level">
+		<h3>Friend</h3>
+		<a class="icon-search enlarge" href="/resources/join/gifts-hoodie-large.jpg" rel="goodies">
+			<img src="/resources/join/gifts-hoodie-small.jpg" width="100" height="100" alt="image">
+		</a>
+		<ul class="gifts">
+			<li><strong>Gifts:</strong> T-shirt, Hoodie</li>
+			<li>
+				<strong>Other Goodies:</strong><br>
+				Stickers, buttons,<br>
+				badges, discounts
+			</li>
+		</ul>
+	
+		<p class="clearfix">Plus access to individual members only
+		benefits at jQuery Foundation events,
+		and recognition on the Foundation website.</p>
+	
+		<button class="button join">Join Now</button>
+	
+		<div class="member-level-icon friend"></div>
+	
+		<div class="choose-gifts">
+			<form method="post" action="">
+	
+				<h4>Choose your 2013 gifts and dues schedule:</h4>
+	
+				<select name="tshirt">
+					<option value="">T-shirt Size</option>
+					<option>Men's Small</option>
+					<option>Men's Medium</option>
+					<option>Men's Large</option>
+					<option>Men's XL</option>
+					<option>Men's XXL</option>
+					<option>Men's XXXL</option>
+					<option>Women's Small</option>
+					<option>Women's Medium</option>
+					<option>Women's Large</option>
+					<option>Women's XL</option>
+					<option>Women's XXL</option>
+				</select>
+	
+				<select name="hoodie">
+					<option value="">Hoodie Size</option>
+					<option>Unisex Small</option>
+					<option>Unisex Medium</option>
+					<option>Unisex Large</option>
+					<option>Unisex XL</option>
+					<option>Unisex XXL</option>
+				</select>
+	
+				<input type="text" name="first-name" placeholder="First Name">
+				<input type="text" name="last-name" placeholder="Last Name">
+	
+				<input type="email" name="email" placeholder="Email">
+	
+				<textarea name="address" placeholder="Mailing Address"></textarea>
+	
+				<hr>
+	
+				<ul class="errors"></ul>
+	
+				<button class="button pay"
+					data-image="/resources/join/friend-128x128.png"
+					data-name="jQuery Friend"
+					data-description="Quarterly membership dues"
+					data-panel-label="Donate"
+					data-plan-id="friend-3mo"
+					data-amount="6000">Quarterly: $60</button>
+	
+				<button class="button pay"
+					data-image="/resources/join/friend-128x128.png"
+					data-name="jQuery Friend"
+					data-description="Annual membership dues"
+					data-panel-label="Donate"
+					data-plan-id="friend-12mo"
+					data-amount="20000">Annual: $200</button>
+			</form>
+		</div>
+	</section>
 
-<div class="member-level">
-	<h3>Friend</h3>
-	<a class="icon-search enlarge" href="/resources/join/gifts-hoodie-large.jpg" rel="goodies">
-		<img src="/resources/join/gifts-hoodie-small.jpg" width="100" height="100" alt="image">
-	</a>
-	<ul class="gifts">
-		<li><strong>Gifts:</strong> T-shirt, Hoodie</li>
-		<li>
-			<strong>Other Goodies:</strong><br>
-			Stickers, buttons,<br>
-			badges, discounts
-		</li>
-	</ul>
-
-	<p class="clearfix">Plus access to individual members only
-	benefits at jQuery Foundation events,
-	and recognition on the Foundation website.</p>
-
-	<button class="button join">Join Now</button>
-
-	<div class="member-level-icon friend"></div>
-
-	<div class="choose-gifts">
-		<form method="post" action="">
-
-			<h4>Choose your 2013 gifts and dues schedule:</h4>
-
-			<select name="tshirt">
-				<option value="">T-shirt Size</option>
-				<option>Men's Small</option>
-				<option>Men's Medium</option>
-				<option>Men's Large</option>
-				<option>Men's XL</option>
-				<option>Men's XXL</option>
-				<option>Men's XXXL</option>
-				<option>Women's Small</option>
-				<option>Women's Medium</option>
-				<option>Women's Large</option>
-				<option>Women's XL</option>
-				<option>Women's XXL</option>
-			</select>
-
-			<select name="hoodie">
-				<option value="">Hoodie Size</option>
-				<option>Unisex Small</option>
-				<option>Unisex Medium</option>
-				<option>Unisex Large</option>
-				<option>Unisex XL</option>
-				<option>Unisex XXL</option>
-			</select>
-
-			<input type="text" name="first-name" placeholder="First Name">
-			<input type="text" name="last-name" placeholder="Last Name">
-
-			<input type="email" name="email" placeholder="Email">
-
-			<textarea name="address" placeholder="Mailing Address"></textarea>
-
-			<hr>
-
-			<ul class="errors"></ul>
-
-			<button class="button pay"
-				data-image="/resources/join/friend-128x128.png"
-				data-name="jQuery Friend"
-				data-description="Quarterly membership dues"
-				data-panel-label="Donate"
-				data-plan-id="friend-3mo"
-				data-amount="6000">Quarterly: $60</button>
-
-			<button class="button pay"
-				data-image="/resources/join/friend-128x128.png"
-				data-name="jQuery Friend"
-				data-description="Annual membership dues"
-				data-panel-label="Donate"
-				data-plan-id="friend-12mo"
-				data-amount="20000">Annual: $200</button>
-		</form>
-	</div>
-</div>
-
-
-
-<div class="member-level last">
-	<h3>Hero</h3>
-	<a class="icon-search enlarge" href="/resources/join/gifts-bag-large.jpg" rel="goodies">
-		<img src="/resources/join/gifts-bag-small.jpg" width="100" height="100" alt="image">
-	</a>
-	<ul class="gifts">
-		<li><strong>Gifts:</strong> T-shirt, Hoodie, Bag</li>
-		<li>
-			<strong>Other Goodies:</strong><br>
-			Stickers, buttons,<br>
-			badges, discounts
-		</li>
-	</ul>
-
-	<p class="clearfix">Plus access to individual members only
-	benefits at jQuery Foundation events,
-	and recognition on the Foundation website.</p>
-
-	<button class="button join">Join Now</button>
-
-	<div class="member-level-icon hero"></div>
-
-	<div class="choose-gifts">
-		<form method="post" action="">
-
-			<h4>Choose your 2013 gifts and dues schedule:</h4>
-
-			<select name="tshirt">
-				<option value="">T-shirt Size</option>
-				<option>Men's Small</option>
-				<option>Men's Medium</option>
-				<option>Men's Large</option>
-				<option>Men's XL</option>
-				<option>Men's XXL</option>
-				<option>Men's XXXL</option>
-				<option>Women's Small</option>
-				<option>Women's Medium</option>
-				<option>Women's Large</option>
-				<option>Women's XL</option>
-				<option>Women's XXL</option>
-			</select>
-
-			<select name="hoodie">
-				<option value="">Hoodie Size</option>
-				<option>Unisex Small</option>
-				<option>Unisex Medium</option>
-				<option>Unisex Large</option>
-				<option>Unisex XL</option>
-				<option>Unisex XXL</option>
-			</select>
-
-			<select name="bag">
-				<option value="">Bag Size</option>
-				<option>Small</option>
-				<option>Medium</option>
-			</select>
-
-			<input type="text" name="first-name" placeholder="First Name">
-			<input type="text" name="last-name" placeholder="Last Name">
-
-			<input type="email" name="email" placeholder="Email">
-
-			<textarea name="address" placeholder="Mailing Address"></textarea>
-
-			<hr>
-
-			<ul class="errors"></ul>
-
-			<button class="button pay"
-				data-image="/resources/join/hero-128x128.png"
-				data-name="jQuery Hero"
-				data-description="Quarterly membership dues"
-				data-panel-label="Donate"
-				data-plan-id="hero-3mo"
-				data-amount="12000">Quarterly: $120</button>
-
-			<button class="button pay"
-				data-image="/resources/join/hero-128x128.png"
-				data-name="jQuery Hero"
-				data-description="Annual membership dues"
-				data-panel-label="Donate"
-				data-plan-id="hero-12mo"
-				data-amount="40000">Annual: $400</button>
-		</form>
-	</div>
-</div>
+	<section class="member-level last">
+		<h3>Hero</h3>
+		<a class="icon-search enlarge" href="/resources/join/gifts-bag-large.jpg" rel="goodies">
+			<img src="/resources/join/gifts-bag-small.jpg" width="100" height="100" alt="image">
+		</a>
+		<ul class="gifts">
+			<li><strong>Gifts:</strong> T-shirt, Hoodie, Bag</li>
+			<li>
+				<strong>Other Goodies:</strong><br>
+				Stickers, buttons,<br>
+				badges, discounts
+			</li>
+		</ul>
+	
+		<p class="clearfix">Plus access to individual members only
+		benefits at jQuery Foundation events,
+		and recognition on the Foundation website.</p>
+	
+		<button class="button join">Join Now</button>
+	
+		<div class="member-level-icon hero"></div>
+	
+		<div class="choose-gifts">
+			<form method="post" action="">
+	
+				<h4>Choose your 2013 gifts and dues schedule:</h4>
+	
+				<select name="tshirt">
+					<option value="">T-shirt Size</option>
+					<option>Men's Small</option>
+					<option>Men's Medium</option>
+					<option>Men's Large</option>
+					<option>Men's XL</option>
+					<option>Men's XXL</option>
+					<option>Men's XXXL</option>
+					<option>Women's Small</option>
+					<option>Women's Medium</option>
+					<option>Women's Large</option>
+					<option>Women's XL</option>
+					<option>Women's XXL</option>
+				</select>
+	
+				<select name="hoodie">
+					<option value="">Hoodie Size</option>
+					<option>Unisex Small</option>
+					<option>Unisex Medium</option>
+					<option>Unisex Large</option>
+					<option>Unisex XL</option>
+					<option>Unisex XXL</option>
+				</select>
+	
+				<select name="bag">
+					<option value="">Bag Size</option>
+					<option>Small</option>
+					<option>Medium</option>
+				</select>
+	
+				<input type="text" name="first-name" placeholder="First Name">
+				<input type="text" name="last-name" placeholder="Last Name">
+	
+				<input type="email" name="email" placeholder="Email">
+	
+				<textarea name="address" placeholder="Mailing Address"></textarea>
+	
+				<hr>
+	
+				<ul class="errors"></ul>
+	
+				<button class="button pay"
+					data-image="/resources/join/hero-128x128.png"
+					data-name="jQuery Hero"
+					data-description="Quarterly membership dues"
+					data-panel-label="Donate"
+					data-plan-id="hero-3mo"
+					data-amount="12000">Quarterly: $120</button>
+	
+				<button class="button pay"
+					data-image="/resources/join/hero-128x128.png"
+					data-name="jQuery Hero"
+					data-description="Annual membership dues"
+					data-panel-label="Donate"
+					data-plan-id="hero-12mo"
+					data-amount="40000">Annual: $400</button>
+			</form>
+		</div>
+	</section>
