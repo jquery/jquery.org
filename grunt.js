@@ -29,8 +29,11 @@ grunt.initConfig({
 			tasks: "deploy"
 		}
 	},
+	"copy-foundation-docs": {
+		"travel-policy.md": "travel-policy.md"
+	},
 	"build-pages": {
-		all: grunt.file.expandFiles( "pages/**/*.html" )
+		all: grunt.file.expandFiles( "pages/**" )
 	},
 	"build-resources": {
 		all: grunt.file.expandFiles( "resources/**" )
@@ -72,6 +75,46 @@ grunt.registerTask( "build-members-page", function() {
 
 	content = content.replace( "{{corporate-members}}", memberContent );
 	grunt.file.write( path, content );
+});
+
+grunt.registerMultiTask( "copy-foundation-docs", "", function() {
+	var github = require( "github-request" ),
+		done = this.async(),
+		src = this.file.src,
+		dest = "pages/" + this.file.dest,
+		token = grunt.config( "wordpress.githubToken" );
+
+	if ( !token ) {
+		grunt.log.error( "Missing githubToken in config.json" );
+		return done( false );
+	}
+
+	github.request({
+		headers: {
+			Authorization: "token " + token
+		},
+		path: "/repos/jquery/foundation/contents/documents/" + src
+	}, function( error, file ) {
+		if ( error ) {
+			grunt.log.error( error );
+			return done( false );
+		}
+
+		var content = new Buffer( file.content, file.encoding ).toString( "utf8" ),
+			lines = content.split( "\n" ),
+			title = lines.shift().substring( 2 );
+
+		content =
+			"<script>" + JSON.stringify({
+				title: title,
+				pageTemplate: "page-fullwidth.php"
+			}, null, "\t" ) + "</script>\n" +
+			lines.join( "\n" );
+
+		grunt.file.write( dest, content );
+		grunt.log.writeln( "Copied " + src + " from foundation repo." );
+		done();
+	});
 });
 
 grunt.registerTask( "default", "lint" );
