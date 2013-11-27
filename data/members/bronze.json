@@ -1,0 +1,30 @@
+[
+	{
+		"name": "GitHub",
+		"url": "http://github.com/"
+	},
+	{
+		"name": "Frontend Masters",
+		"url": "http://frontendmasters.com/"
+	},
+	{
+		"name": "Fort Point Legal",
+		"url": "http://fortpoint.me/"
+	},
+	{
+		"name": "Kendo UI",
+		"url": "http://www.kendoui.com/"
+	},
+	{
+		"name": "appendTo",
+		"url": "http://appendto.com/"
+	},
+	{
+		"name": "Bocoup",
+		"url": "http://bocoup.com/"
+	},
+	{
+		"name": "ITmozg.ru",
+		"url": "http://itmozg.ru/"
+	}
+]
