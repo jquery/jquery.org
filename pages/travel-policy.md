@@ -51,4 +51,4 @@ Submit requests early and often using expensify.com to expenses@jquery.org. Each
 
 Include a note in your first report or in a separate email to expenses@jquery.org to specify how you would like to be reimbursed. For available reimbursement methods, contact the President, Executive Director, or expenses@jquery.org.
 
-Reimbursement requests must be received within 30 days of the associated event. Reimbursements are processed on a 1-2 week basis. To be safe you should plan on being able to receive the reimbursement 3-4 weeks after the request is made. If this is an issue, see the Help section above.
+Reimbursement requests must be received within 30 days of completion of the associated event. Reimbursements are processed on a 1-2 week basis. To be safe you should plan on being able to receive the reimbursement 3-4 weeks after the request is made. If this is an issue, see the Help section above.
