@@ -3,9 +3,9 @@
 	"pageTemplate": "page-fullwidth.php"
 }</script>
 
-The Board of Directors supports the mission of the jQuery Foundation and provides both leadership and strategic governance. Board members are not compensated for their duties, except for travel (governed by the [jQuery Foundation travel policy](travel-policy.md)) and other office expenses related to Board Member duties. 
+The Board of Directors supports the mission of the jQuery Foundation and provides both leadership and strategic governance. Board members are not compensated for their duties, except for travel (governed by the [jQuery Foundation travel policy](/travel-policy)) and other office expenses related to Board Member duties.
 
-New members are added to the Board from time to time by a public vote of the current Board members. As specified by the Foundation bylaws, Board Members will serve three-year terms and be eligible for re-appointment for additional terms via a vote of the Board. 
+New members are added to the Board from time to time by a public vote of the current Board members. As specified by the Foundation bylaws, Board Members will serve three-year terms and be eligible for re-appointment for additional terms via a vote of the Board.
 
 ## Qualifications
 
