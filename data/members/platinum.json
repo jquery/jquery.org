@@ -2,5 +2,9 @@
 	{
 		"name": "MaxCDN",
 		"url": "http://www.maxcdn.com/"
+	},
+	{
+		"name": "Media Temple",
+		"url": "http://mediatemple.net/"
 	}
 ]
