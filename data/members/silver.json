@@ -30,5 +30,9 @@
 	{
 		"name": "Mozilla",
 		"url": "http://www.mozilla.org/"
+	},
+	{
+		"name": "BrowserStack",
+		"url": "http://www.browserstack.com/"
 	}
 ]
