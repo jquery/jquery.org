@@ -34,5 +34,9 @@
 	{
 		"name": "BrowserStack",
 		"url": "http://www.browserstack.com/"
+	},
+	{
+		"name": "Adobe",
+		"url": "http://www.adobe.com/"
 	}
 ]
