@@ -1,19 +1,7 @@
 [
 	{
-		"name": "BlackBerry",
-		"url": "http://www.blackberry.com/"
-	},
-	{
 		"name": "Intel",
 		"url": "http://software.intel.com/en-us/oss"
-	},
-	{
-		"name": "10up",
-		"url": "http://10up.com/"
-	},
-	{
-		"name": "Filament Group",
-		"url": "http://filamentgroup.com/"
 	},
 	{
 		"name": "modern.IE",
