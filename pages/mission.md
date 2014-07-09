@@ -9,13 +9,13 @@ A world in which all web content is built on open standards and is accessible to
 
 ## Mission Statement
 
-To improve the open web, making it accessible for everyone, through the development of the open source software commonly known as the "jQuery Project" and collaboration with the development community.
+To improve the open web, making it accessible for everyone, through the development and support of open source software, and collaboration with the development community.
 
 ### An open web
 
 We believe that open standards are important for the future of the web. Open standards are publicly available and free to implement without ever having to worry about royalties.
 
-jQuery Foundation projects encourage adoption of open standards and implement tools to help developers apply those standards.
+Foundation projects encourage adoption of open standards and implement tools to help developers apply those standards.
 
 You can read more about the [Open Web Platform](http://www.w3.org/wiki/Open_Web_Platform) as defined by the W3C or Tantek Çelik’s definition of the [Open Web](http://tantek.com/2010/281/b1/what-is-the-open-web).
 
@@ -23,7 +23,7 @@ You can read more about the [Open Web Platform](http://www.w3.org/wiki/Open_Web_
 
 We believe that everyone should be able to access the vast content available on the web. This includes anyone with physical, mental, cognitive, or technological disabilities that make it more difficult to use the Internet. Content should be usable by people with poor network connections, slow or old devices, and assistive technologies.
 
-jQuery Foundation projects emphasize the importance of an an accessible web to developers to facilitate the creation of accessible content and applications.
+Foundation projects emphasize the importance of an accessible web to developers to facilitate the creation of accessible content and applications.
 
 ### Collaboration with the development community
 
