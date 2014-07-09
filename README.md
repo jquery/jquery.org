@@ -9,7 +9,7 @@ To build and deploy your changes for previewing in a [jquery-wp-content](https:/
 
 ### Foundation Documents
 
-Some of the pages for jquery.org come from jQuery Foundation documents stored in a separate repository. Whenever those documents are updated, they should be copied to jquery.org via `grunt copy-foundation-docs`. Running this task requires access to the foundation repository, as well as adding a `githubToken` property to your `config.json`. You can generate a personal access token at https://github.com/settings/applications.
+Some of the pages for jquery.org come from jQuery Foundation documents stored in a separate repository. Whenever those documents are updated, they should be copied to this repo via `grunt copy-foundation-docs`. Newly created documents must be added to the list in the grunt file. After the grunt task runs, you should review, add, commit, and push the update. Running this task requires access to the foundation repository, as well as adding a `githubToken` property to your `config.json`. You can generate a personal access token at https://github.com/settings/applications.
 
 ### Stripe Integration
 
