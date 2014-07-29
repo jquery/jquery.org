@@ -33,7 +33,8 @@ grunt.initConfig({
 		"travel-policy.md": "travel-policy.md",
 		"team-members.md": "team-members.md",
 		"board-members.md": "board-members.md",
-		"mission.md": "mission.md"
+		"mission.md": "mission.md",
+		"bylaws.md": "bylaws.md"
 	},
 	"build-pages": {
 		all: grunt.file.expandFiles( "pages/**" )

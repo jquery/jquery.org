@@ -21,11 +21,11 @@ If you or a company can help in covering some expenses that would otherwise be c
 
 ## Airfare
 
-Coach fare, domestic and international. Get a direct flight if it's not outrageous compared to one connection. Two connections should only ever be needed if you find it to be the best of all options (not just to save a small amount of money). Shop around to make sure you're getting a good deal. Hipmunk is a handy site for that, and will sort trips by 'Agony'. Your happiness is very important to jQuery. Choose a flight that balances 'Agony' with price.
+Book a base coach fare, domestic and international. Upgrade fees for services such as Economy Comfort, exit row seats, or Early-Bird Checkin are not covered. Get a direct flight if it's not outrageous compared to one connection. Two connections should only ever be needed if you find it to be the best of all options (not just to save a small amount of money). Shop around to make sure you're getting a good deal. Hipmunk is a handy site for that, and will sort trips by 'Agony'. 
 
 If adding a day or partial day at either or both ends of the trip makes the flight either cheaper or not much more expensive, and the trip more bearable, do that. Anything more than that should be considered out-of-policy (personal) and handled on your own.
 
-Checked bags are covered by this policy when needed. You are encouraged to avoid baggage fees by using a carry-on when reasonable.
+Fees for one checked bag and in-flight wi-fi are covered by this policy when needed. You are encouraged to avoid baggage fees by using a carry-on when reasonable.
 
 If you want to combine an in-policy trip with an out-of-policy trip that ends up making it cheaper or more expensive, figure out the cost the in-policy trip would be on its own and use the lower of the two amounts when requesting reimbursement.
 
