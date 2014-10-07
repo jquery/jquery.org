@@ -30,11 +30,11 @@ grunt.initConfig({
 		}
 	},
 	"copy-foundation-docs": {
-		"travel-policy.md": "travel-policy.md",
-		"team-members.md": "team-members.md",
 		"board-members.md": "board-members.md",
+		"bylaws.md": "bylaws.md",
 		"mission.md": "mission.md",
-		"bylaws.md": "bylaws.md"
+		"team-members.md": "team-members.md",
+		"travel-policy.md": "travel-policy.md"
 	},
 	"build-pages": {
 		all: grunt.file.expandFiles( "pages/**" )
