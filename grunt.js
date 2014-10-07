@@ -34,6 +34,7 @@ grunt.initConfig({
 		"bylaws.md": "bylaws.md",
 		"mission.md": "mission.md",
 		"team-members.md": "team-members.md",
+		"trademark-policy.md": "trademark-policy.md",
 		"travel-policy.md": "travel-policy.md"
 	},
 	"build-pages": {
