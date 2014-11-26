@@ -5,11 +5,11 @@
 
 In the spirit of Open Source, the jQuery Foundation welcomes contributions from anyone in the community with a desire to advance the mission of the Foundation. Every contribution is appreciated. It is not necessary to be a team member to make a contribution, and we understand that many contributors may not have the time or expertise to make a long-term commitment to a jQuery Foundation project. 
 
-Contributors who make significant and continuing contributions to the jQuery Foundation or one of its hosted projects may be invited to become team members. An invitation to membership is generally made by consensus within a project's team members. Team membership recognizes exceptional work and implies a continuing commitment to helping jQuery projects thrive.
+Contributors who make significant and continuing contributions to the jQuery Foundation or one of its hosted projects may be invited to become team members. An invitation to membership is generally made by consensus within a project's team members. Team membership recognizes exceptional work and implies a continuing commitment to helping jQuery Foundation projects thrive.
 
 ## Duties
 
-Each project team decides its own criteria for team membership and duties. Typical responsibilities include:
+Each project team decides its own criteria for team membership and duties. Team members are generally expected to:
 * Attend regular team meetings on IRC, Skype, or other forums;
 * Be reasonably available if questions or problems arise;
 * Interact with the community in a pleasant and constructive way;
@@ -38,5 +38,5 @@ As a member of a jQuery Foundation team, you will have the opportunity to work w
 
 ### Tools and Services
 
-Several companies have generously provided the jQuery Foundation free access to their products and services. This includes BrowserStack, which can run many different browsers from within a browser interface. Many jQuery teams use IRC for communications, and jQuery runs an IRC "bouncer" (ZNC) to make it more convenient to use; team members can use this bouncer without charge. Other tools or services may be available to teams as members of specific projects.
+Several companies have generously provided the jQuery Foundation free access to their products and services. This includes BrowserStack, which can run many different browsers from within a browser interface. Many teams use IRC for communications, and the jQuery Foundation runs an IRC "bouncer" (ZNC) to make it more convenient to use; team members can use this bouncer without charge. Other tools or services may be available to team members of specific projects.
 
