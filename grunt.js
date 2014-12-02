@@ -2,8 +2,9 @@ var rimraf = require( "rimraf" );
 
 module.exports = function( grunt ) {
 
-grunt.loadNpmTasks( "grunt-wordpress" );
+grunt.loadNpmTasks( "grunt-check-modules" );
 grunt.loadNpmTasks( "grunt-jquery-content" );
+grunt.loadNpmTasks( "grunt-wordpress" );
 
 grunt.initConfig({
 	"copy-foundation-docs": {
@@ -104,6 +105,6 @@ grunt.registerMultiTask( "copy-foundation-docs", "", function() {
 });
 
 grunt.registerTask( "build", "build-pages build-members-page build-resources" );
-grunt.registerTask( "build-wordpress", "clean build" );
+grunt.registerTask( "build-wordpress", "check-modules clean build" );
 
 };
