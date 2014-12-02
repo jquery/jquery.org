@@ -2,27 +2,10 @@ var rimraf = require( "rimraf" );
 
 module.exports = function( grunt ) {
 
-"use strict";
-
 grunt.loadNpmTasks( "grunt-wordpress" );
 grunt.loadNpmTasks( "grunt-jquery-content" );
 
 grunt.initConfig({
-	jshint: {
-		options: {
-			undef: true,
-			node: true
-		}
-	},
-	lint: {
-		grunt: "grunt.js"
-	},
-	watch: {
-		pages: {
-			files: "pages/*.html",
-			tasks: "deploy"
-		}
-	},
 	"copy-foundation-docs": {
 		"board-members.md": "board-members.md",
 		"bylaws.md": "bylaws.md",
@@ -120,8 +103,7 @@ grunt.registerMultiTask( "copy-foundation-docs", "", function() {
 	});
 });
 
-grunt.registerTask( "default", "lint" );
-grunt.registerTask( "build-wordpress", "clean lint build-pages build-members-page build-resources");
-grunt.registerTask( "deploy", "wordpress-deploy" );
+grunt.registerTask( "build", "build-pages build-members-page build-resources" );
+grunt.registerTask( "build-wordpress", "clean build" );
 
 };
