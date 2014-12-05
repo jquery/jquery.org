@@ -4,7 +4,6 @@ module.exports = function( grunt ) {
 
 grunt.loadNpmTasks( "grunt-check-modules" );
 grunt.loadNpmTasks( "grunt-jquery-content" );
-grunt.loadNpmTasks( "grunt-wordpress" );
 
 grunt.initConfig({
 	"copy-foundation-docs": {
@@ -16,14 +15,16 @@ grunt.initConfig({
 		"travel-policy.md": "travel-policy.md"
 	},
 	"build-pages": {
-		all: grunt.file.expandFiles( "pages/**" )
+		all: "pages/**"
 	},
 	"build-resources": {
-		all: grunt.file.expandFiles( "resources/**" )
+		all: "resources/**"
 	},
-	wordpress: grunt.utils._.extend({
-		dir: "dist/wordpress"
-	}, grunt.file.readJSON( "config.json" ) )
+	wordpress: (function() {
+		var config = require( "./config" );
+		config.dir = "dist/wordpress";
+		return config;
+	})()
 });
 
 grunt.registerTask( "clean", function() {
@@ -64,11 +65,11 @@ grunt.registerTask( "build-members-page", function() {
 	grunt.file.write( path, content );
 });
 
-grunt.registerMultiTask( "copy-foundation-docs", "", function() {
+grunt.registerMultiTask( "copy-foundation-docs", function() {
 	var github = require( "github-request" ),
 		done = this.async(),
-		src = this.file.src,
-		dest = "pages/" + this.file.dest,
+		src = this.target,
+		dest = "pages/" + this.data,
 		token = grunt.config( "wordpress.githubToken" );
 
 	if ( !token ) {
@@ -104,7 +105,7 @@ grunt.registerMultiTask( "copy-foundation-docs", "", function() {
 	});
 });
 
-grunt.registerTask( "build", "build-pages build-members-page build-resources" );
-grunt.registerTask( "build-wordpress", "check-modules clean build" );
+grunt.registerTask( "build", [ "build-pages", "build-members-page", "build-resources" ] );
+grunt.registerTask( "build-wordpress", [ "check-modules", "clean", "build" ] );
 
 };
