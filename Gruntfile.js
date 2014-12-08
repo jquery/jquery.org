@@ -1,8 +1,5 @@
-var rimraf = require( "rimraf" );
-
 module.exports = function( grunt ) {
 
-grunt.loadNpmTasks( "grunt-check-modules" );
 grunt.loadNpmTasks( "grunt-jquery-content" );
 
 grunt.initConfig({
@@ -14,8 +11,8 @@ grunt.initConfig({
 		"trademark-policy.md": "trademark-policy.md",
 		"travel-policy.md": "travel-policy.md"
 	},
-	"build-pages": {
-		all: "pages/**"
+	"build-posts": {
+		page: "pages/**"
 	},
 	"build-resources": {
 		all: "resources/**"
@@ -25,10 +22,6 @@ grunt.initConfig({
 		config.dir = "dist/wordpress";
 		return config;
 	})()
-});
-
-grunt.registerTask( "clean", function() {
-	rimraf.sync( "dist" );
 });
 
 grunt.registerTask( "build-members-page", function() {
@@ -105,7 +98,6 @@ grunt.registerMultiTask( "copy-foundation-docs", function() {
 	});
 });
 
-grunt.registerTask( "build", [ "build-pages", "build-members-page", "build-resources" ] );
-grunt.registerTask( "build-wordpress", [ "check-modules", "clean", "build" ] );
+grunt.registerTask( "build", [ "build-posts", "build-members-page", "build-resources" ] );
 
 };
