@@ -6,5 +6,9 @@
 	{
 		"name": "IBM",
 		"url": "http://ibm.com/"
+	},
+	{
+		"name": "Famo.us",
+		"url": "http://famo.us/"
 	}
 ]
