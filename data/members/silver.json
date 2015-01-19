@@ -26,5 +26,13 @@
 	{
 		"name": "Adobe",
 		"url": "http://www.adobe.com/"
+	},
+	{
+		"name": "Intel",
+		"url": "http://software.intel.com/en-us/oss"
+	},
+	{
+		"name": "Deque Systems",
+		"url": "http://www.deque.com/"
 	}
 ]
