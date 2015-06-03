@@ -1,8 +1,8 @@
 <script>{
-	"title": "JQUERY FOUNDATION, INC. SECOND AMENDED BYLAWS",
+	"title": "JQUERY FOUNDATION, INC. FOURTH AMENDED BYLAWS",
 	"pageTemplate": "page-fullwidth.php"
 }</script>
-### EFFECTIVE AS OF: July 8, 2014
+### EFFECTIVE AS OF: June 3, 2015
 
 ## ARTICLE I: INTENT
 The name of this corporation is the jQuery Foundation, Inc. (the "Foundation"). The Foundation is
@@ -33,12 +33,32 @@ approval by members, shall only require the approval of the Board of Directors. 
 rights, which would otherwise vest in the members under law, the Articles of Incorporation or the
 Bylaws of this corporation, shall vest in the Directors of the Foundation.
 
-**Section 4.2: Non-Voting Memberships.** The Foundation shall have classes of membership
+**Section 4.2: Non-Voting Memberships.** The Foundation shall have classes of membership as set forth in these Bylaws and
 as determined by the Board of Directors from time to time. The rights, privileges and obligations of all
 classes of individuals in those classes (collectively, “Members”) will be published in the Foundation’s
-membership prospectus.
+membership prospectus. The Board of Directors may, in its discretion, grant as one of the rights,
+privileges, and obligations of one or more classes of Member, the right to appoint a representative to
+the Board of Directors, in accord with Section 5.16 below, either as a representative of a particular
+Member or class of Members (each a “Member Representative Director”). If granted, that right will be
+specifically noted these Bylaws and in the Foundation’s membership prospectus.
 
-**Section 4.3: Other Classes of Membership.** The Board of Directors may, by appropriate
+**Section 4.3: Classes of Membership, Rights.** The Foundation will initially have
+three classes of membership. Those classes will be: i) Diamond; ii) Platinum; and iii)
+Gold. In addition to such other rights as may be conferred upon the Members of
+these classes by the Board of Directors in accord with Section 4.4 below, which
+rights will be memorialized in the Foundation’s membership prospectus, the
+members of these classes will have the right to appoint Member Representative
+Directors as follow: a) each member of the Diamond class (each a "Diamond
+Member") will have the right to appoint one Member Representative Director (each a
+"Diamond Director"); b) the members of the Platinum class (each a "Platinum
+Member"), will, as a class, have the right to appoint a number of Member
+Representative Directors equal to the quotient of the total number of Platinum
+Members divided by two, rounded up to the nearest whole number (each a "Platinum
+Director"); and c) the members of the Gold class (each a "Gold Member"), will, as a
+class, have the right to appoint a single Member Representative Director (the "Gold
+Director").
+
+**Section 4.4: Other Classes of Membership.** The Board of Directors may, by appropriate
 resolution from time to time, establish another class or other classes of Members for the Foundation.
 No such class or classes of Members will have any voting rights or privileges under either these Bylaws
 or statute, and all voting rights will be governed by Section 4.1 herein. The privileges, rights and duties
@@ -48,13 +68,13 @@ initial membership fee and, in its discretion, set fees, dues and assessments
 for membership in the Foundation. The Board of Directors may thereby confer specified rights
 on the Members in accord with the Foundation’s Articles of Incorporation or these Bylaws.
 
-**Section 4.4: Property Rights, Nonliability, Nontransferability.** No Member shall have any
+**Section 4.5: Property Rights, Nonliability, Nontransferability.** No Member shall have any
 right or interest in any of the property or assets of the Foundation. No Member shall be personally liable
 for the debts, liabilities, or obligations of the Foundation. No Member may transfer for value or
 otherwise a membership or any right arising therefrom; and all rights of a Member shall cease upon the
 Member’s death.
 
-**Section 4.5 Meetings of Members.** The Board may provide for holding regular meetings of
+**Section 4.6 Meetings of Members.** The Board may provide for holding regular meetings of
 the Members whenever it may be considered necessary or desirable.
 
 ## ARTICLE V: BOARD OF DIRECTORS
@@ -79,57 +99,91 @@ remain vested in said Board and their successors in office jointly.
 
 **Section 5.3: Composition and Number.** The Board shall include representatives from the
 open source software community and qualified individuals with similar interests. The number of
-Directors of the Foundation shall be not less than five and not more than twenty-five until changed by a
-duly adopted amendment to this Bylaw section. Each Director will have one vote on any matter that
-comes before the Board.
+Directors of the Foundation shall be not less than seven and not more than twenty-five until changed by a
+duly adopted amendment to this Bylaw section. At no point may more than one individual working for a
+single organization as an officer, employee, agent, contractor, or otherwise, serve concurrently on the
+Board. One Board seat will be reserved for a representative of the Foundation projects, to be nominated
+by majority vote of the project leads and accepted by the Nominating Committee (the "Project Representative
+Director"). Six Board seats will be reserved for Directors that are neither Member Representative Directors
+nor Project Representative Directors (the “At-Large Directors”). At all times, at least one-third of all
+Directors must be At-Large Directors. If at any point, the number of At-Large Directors represents less
+than one-third of all Directors due to an increase in the number of Member Representative Directors, then
+At-Large Directors shall be added in accord with Section 5.4 until At-Large Directors represent no less
+than one-third of all Directors. Each Director will have one vote on any matter that comes before the Board.
 
-**Section 5.4: Board Appointment.** Candidates for appointment to the Board shall be selected
-by a Nominating Committee consisting of the President, and two or more members of the Board. New
-Directors must be approved by majority vote of the Board.
+**Section 5.4: Member Representative Directors.** Member Representative Directors
+will be appointed by each Member or class of Members to whom a Member
+Representative Director position is granted in accord with these Bylaws or the
+Foundation’s membership prospectus. Member Representative Directors will have
+the same powers and duties of other members of the Board of Directors under these
+Bylaws, and will be included in all calculations under Sections 5.3 and 5.11 above.
 
-**Section 5.5: Term of Office.** Directors shall serve for a term of three years or until their
-successors have duly taken office, but in no event may a Director serve more than three consecutive
-terms. After completion of three consecutive terms, a Director will be given emeritus status. After one
+**Section 5.5: Board Appointment.** Candidates for appointment to the Board as
+At-Large Directors shall be selected by a Nominating Committee consisting of the President,
+and two or more members of the Board. New Directors must be approved by majority vote of the Board.
+The Project Representative Director will be nominated by majority vote of the project
+leads and accepted by the Nominating Committee without further approval of the Board.
+Each Diamond Director will be appointed by the Diamond Member within thirty (30) days
+of the effective date of membership. Each Platinum Director will be appointed by majority
+vote of the Platinum Members. Each Platinum Member will have a number of votes equal
+to the number of Platinum Director positions then up for election, and votes may be
+cast cumulatively. The Gold Director will be appointed by majority vote of the Gold Members,
+and each Gold Member will have a single vote. No Member Representative Director need be
+approved by the Board.
+
+**Section 5.6: Term of Office.** Directors shall serve for a term of of one year,
+earlier removed or resigned under Section 5.7, 5.8, or 5.15, or until their
+successors have duly taken office, but in no event may a Director serve more than seven consecutive
+terms. After completion of seven consecutive terms, a Director will be given emeritus status. After one
 year of emeritus status, a Director may be re-nominated and re-appointed to the Board. Length of terms
 and appointment dates may be staggered by decision of the Board to avoid all terms expiring at the
-same time.
+same time. In the event the number of authorized Platinum Directors under Section 4.3
+above decreases during the term of one or more Platinum Directors, and no Platinum Director
+is automatically removed under Section 5.9 below, then all then-serving Platinum Directors
+may conclude their full term and the decrease in the number of authorized Platinum Directors will
+take effect upon the next resignation, removal, or term expiration of a Platinum Director.
 
-**Section 5.6: Removal of Directors.** A Director may be removed, with or without cause, if a
+**Section 5.7: Removal of Directors.** A Director may be removed, with or without cause, if a
 majority of the Directors present at a duly constituted meeting vote for the removal. Removal is
 effective only if it occurs at a meeting called for that purpose. Notice must be sent to all directors that a
-purpose of the meeting is removal.
+purpose of the meeting is removal. In the event a Member terminates or fails to renew its membership,
+any agent or appointee of that Member serving as a Member Representative Director will be automatically
+removed without further action of the Board as of the effective date of the termination or non-renewal,
+and any vacancy caused, if any, will be filled in accord with Section 5.9 below.
 
-**Section 5.7: Resignation.** Any Director may resign by giving written notice to the President,
+**Section 5.8: Resignation.** Any Director may resign by giving written notice to the President,
 the Secretary, or the Board. Such a written resignation will be effective on the later of (i) the date it is
 delivered or (ii) the time specified in the written notice that the resignation is to become effective. No
 Director may resign if the Foundation would then be left without a duly elected Director in
 charge of its affairs.
 
-**Section 5.8: Vacancies.** Vacancies on the Board of Directors shall exist (i) whenever the
-number of authorized Directors is increased, (ii) on the expiration of the term of any Director, or (iii) on
-the resignation, removal, or death of any Director. Vacancies on the Board may be filled by the
-recommendation of the Nominating Committee and the approval of the majority of the remaining
-members of the Board. The person so appointed shall hold office for the unexpired term of their
+**Section 5.9: Vacancies.** Vacancies on the Board of Directors shall exist (i) whenever the
+number of authorized Directors is increased, including upon an
+increase in the number of authorized At-Large or Platinum Directors in accord with
+Sections 4.3 and 5.3, (ii) on the expiration of the term of any Director, or (iii) on
+the resignation, removal, or death of any Director. Vacancies on the Board will be filled
+in accord with the procedures set forth in Section 5.5 above.
+The person so appointed shall hold office for the unexpired term of their
 predecessor; however when filling a newly opened position (due to Board expansion or expiration of a
 predecessor's term), the person shall serve the regular term of office.
 
-**Section 5.9: Regular Meetings.** Each year the Board shall hold at least one meeting at a time
+**Section 5.10: Regular Meetings.** Each year the Board shall hold at least one meeting at a time
 and place fixed by the Board for the purposes of election of Directors, appointment of Officers, review
 and approval of the Foundation’s budget and transaction of other business. Other regular meetings of
 the Board may be held at such time and place as the Board may fix from time to time by resolution. Such
 meetings may be held electronically. All votes will be conducted in accord with Section 5.12 below.
 
-**Section 5.10: Special Meetings.** In addition, the President or a majority of the Board may call
+**Section 5.11: Special Meetings.** In addition, the President or a majority of the Board may call
 a special meeting of the Board by notice to all Directors at least forty-eight (48) hours in advance given
 personally, by mail with postage pre-paid, or by electronic means.  Such meetings may be held
 electronically. All votes will be conducted in accord with Section 5.12 below.
 
-**Section 5.11: Quorum.** At all meetings of the Board, one-third of the total current number of
+**Section 5.12: Quorum.** At all meetings of the Board, one-third of the total current number of
 Directors, but never less than three if the number of current Directors drops below nine, shall constitute
 a quorum. In the event the number of Directors is less than three, all Directors must be present to
 constitute a quorum. No action may be taken at a regular or special meeting without a quorum.
 
-**Section 5.12: Action Without Meeting By Electronic Vote.** Any action required or permitted
+**Section 5.13: Action Without Meeting By Electronic Vote.** Any action required or permitted
 to be taken by the Board may be accomplished by means of electronic voting without a meeting
 (hereafter “Electronic Votes”). Electronic Votes of the Board shall be
 facilitated by means of two forums accessible by all members of the Board (the "Discussion Forum" and the “Voting Forum”).
@@ -164,29 +218,41 @@ All Electronic Votes shall follow either a Regular Voting procedure or an Expedi
        second the motion, then the motion will proceed under the regular voting
        procedure hereunder.
 
-**Section 5.13: Majority Action As Board Action.** Every act or decision done or made by a
+**Section 5.14: Majority Action As Board Action.** Every act or decision done or made by a
 majority of the Directors present at a meeting at which a quorum is present, or otherwise undertaken in
 accord with the Articles of Incorporation, these Bylaws, or statute, is the act of the Board of Directors.
 
-**Section 5.14: Unexcused Absences.** Any Board member who, during a single term, having failed to attend two regular or
+**Section 5.15: Unexcused Absences.** Any Board member who, during a single term, having failed to attend two regular or
 special meetings, or having failed to vote in two Electronic Votes, or having failed to attend one regular
 or special meeting and vote in one Electronic Vote, without excuse, will be removed automatically from
 the Board upon notice from the President, without a removal vote in accord with Section 5.6. Validation
 of excused absences will be determined by the Board and incorporated into the minutes of the meetings
 or by documentation of an Electronic Vote within one week of the event.
 
-**Section 5.15: Fees and Compensation.** Directors shall not be compensated for serving on the
+**Section 5.16: Fees and Compensation.** Directors shall not be compensated for serving on the
 Board of Directors. Directors shall be entitled to reimbursement of expenses incurred on behalf of the
 Foundation if such reimbursement is approved in advance by vote of the Board. Members of
 Departments may receive such reimbursement for expenses as may be fixed or determined by
-resolution of the Board of Directors. Nothing herein shall be considered to preclude any Director from
-serving the Foundation in any other capacity, including as an officer, agent, employee or otherwise, and
-receiving compensation therefor.
+resolution of the Board of Directors.
+
+**Section 5.17: Member Representative Directors.** Member Representative Directors will be appointed by
+each Member to whom a Member Representative Director position is granted in accord with the Foundation’s
+membership prospectus within thirty (30) days of the effective date of membership, and need not be approved
+by vote of the Board in accord with Section 5.4. The term of each Member Representative Director will last
+for one year, until their successor has duly taken office, or until the Member Representative Director is
+earlier removed or resigns in accord with Sections 5.6, 5.7, or 5.14 above. Successors will be appointed by
+the Member. A vacancy in any Member Representative Director position will likewise be filled by appointment
+of the Member, and will otherwise take effect in accord with Section 5.8 above. Member Representative Directors
+will have the same powers and duties of other members of the Board of Directors under these bylaws, and will
+be included in all calculations under Sections 5.3 and 5.11 above. In the event the Member terminates or fails
+to renew its membership, the Member Representative Director will be automatically removed without further
+action of the Board as of the effective date of the termination or non-renewal.
 
 ## ARTICLE VI: OFFICERS
 **Section 6.1: Number of Officers.** The officers of the Foundation shall consist of a President,
-Secretary, and Treasurer who shall be members of the Board. All officers shall serve without
-compensation.
+Secretary, and Treasurer. Officers may also be members of the Board, but need not be members of
+the Board in order to be elected to or hold an Officer position. Officers may serve with or without
+compensation, at the discretion of the Board.
 
 **Section 6.2: Nomination.** A Nominating Committee consisting of the President and two or
 more members of the Board selected by the Board shall meet no less often than every two years to
