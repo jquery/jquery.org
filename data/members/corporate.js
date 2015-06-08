@@ -1,7 +1,7 @@
 var fs = require( "fs" );
 
 module.exports = {
-	founding: require( "./founding" ),
+	diamond: require( "./diamond" ),
 	platinum: require( "./platinum" ),
 	gold: require( "./gold" ),
 	silver: require( "./silver" ),
