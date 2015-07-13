@@ -20,5 +20,3 @@ A complete list of changes can always be found [on GitHub](https://github.com/jq
 <dd>[Copied draft from Django Project](https://github.com/jquery/jquery.org/commit/39594102137e72b62503b2d9a1233a521c2403c7).</dd>
 
 </dl>
-
-[Back to Top](#top)
