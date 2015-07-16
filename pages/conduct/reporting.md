@@ -21,19 +21,19 @@ In your report please include:
 
 You will receive an email from the jQuery Foundation Code of Conduct Working Group acknowledging receipt immediately. We promise to acknowledge receipt within 24 hours (and will aim for much quicker than that).
 
-The working group will immediately meet to review the incident and determine:
+Members of the committee will immediately meet to review the incident and determine:
 
 *   What happened.
 *   Whether this event constitutes a code of conduct violation.
 *   Who the bad actor was.
 *   Whether this is an ongoing situation, or if there is a threat to anyone's physical safety.
 
-If this is determined to be an ongoing incident or a threat to physical safety, the working groups' immediate priority will be to protect everyone involved. This means we may delay an "official" response until we believe that the situation has ended and that everyone is physically safe.
+If this is determined to be an ongoing incident or a threat to physical safety, the immediate priority will be to protect everyone involved. This means we may delay an "official" response until we believe that the situation has ended and that everyone is physically safe.
 
-Once the working group has a complete account of the events they will make a decision as to how to response. Responses may include:
+Once the committee has a complete account of the events they will make a decision as to how to response. Responses may include:
 
 *   Nothing (if we determine no violation occurred).
-*   A private reprimand from the working group to the individual(s) involved.
+*   A private reprimand from the committee to the individual(s) involved.
 *   A public reprimand.
 *   An imposed vacation (i.e. asking someone to "take a week off" from a mailing list or IRC).
 *   A permanent or temporary ban from some or all jQuery spaces (mailing lists, IRC, etc.)
@@ -47,4 +47,4 @@ Finally, the Working Group will make a report on the situation to the jQuery Fou
 
 ### Appealing
 
-Only permanent resolutions (such as bans) may be appealed. To appeal a decision of the working group, contact the jQuery Foundation Board at [foundation@jquery.com](mailto:foundation@jquery.com) with your appeal and the jQuery Foundation board will review the case.
+Only permanent resolutions (such as bans) may be appealed. To appeal a decision of the committee, contact the jQuery Foundation President and Executive Director at [executive@jquery.com](mailto:executive@jquery.com) with your appeal and they will review the case.
