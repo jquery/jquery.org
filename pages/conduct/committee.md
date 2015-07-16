@@ -7,7 +7,10 @@ The Code of Conduct Committee deals with violations in the [jQuery Code of Condu
 
 Committee Members:
 
-* TBD
+* Chair: Corey Frang
+* Anne-Gaelle Colom
+* John Resig
+* Adam Sontag
 
 You can contact [conduct@jquery.com](mailto:conduct@jquery.com). For more details please see the [Reporting Guidelines](https://jquery.org/conduct/reporting/).
 
