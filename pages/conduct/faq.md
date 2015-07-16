@@ -13,13 +13,13 @@ We know that the jQuery community is open, friendly, and welcoming. We want to m
 
 ### What does it mean to "adopt" a Code of Conduct?
 
-For the most part, we don't think it means large changes. We think that the text does a really good job describing the way the jQuery community already conducts itself. We expect that most people will simple continue to behave in the awesome way they have for years.
+For the most part, we don't think it means large changes. We think that the text does a really good job describing the way the jQuery community already conducts itself. We expect that most people will simply continue to behave in the awesome way they have for years.
 
-However, we do expect that people will abide by the spirit and words of the CoC when in "official" jQuery spaces. This code has been adopted by both the jQuery core team and by the jQuery Software Foundation. That means that it'll apply both in community spaces _and_ at jQuery Foundation events.
+However, we do expect that people will abide by the spirit and words of the CoC when in "official" jQuery spaces. This code has been adopted by both the jQuery core team and by the jQuery Foundation. That means that it'll apply both in community spaces _and_ at jQuery Foundation events.
 
 In practice, this means the various jQuery IRC channels (<tt>#jquery</tt>, <tt>#jquery-dev</tt>, etc.), bug tracking and code review tools, and "official" jQuery events such as sprints. In addition, violations of this code outside these spaces may affect a person's ability to participate within them.
 
-### What about events funded by the jQuery Software Foundation?
+### What about events funded by the jQuery Foundation?
 
 This Code of Conduct also covers any events that the jQuery Foundation funds. However, events funded by the jQuery Foundation already [require a code of conduct](https://www.jquery.org/conduct/). Isn't this redundant?
 

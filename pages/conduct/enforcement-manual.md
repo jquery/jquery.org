@@ -9,7 +9,7 @@ This is the enforcement manual followed by jQuery's Code of Conduct Committee. I
 
 All responses to reports of conduct violations will be managed by a [Code of Conduct Committee](https://jquery.org/conduct/comittee/) ("the committee").
 
-The jQuery Foundation's Board of Directors ("the board") will establish this committee, compromised of at least three members. One member will be designated chair of the group and will be responsible for all reports back to the board. The board will review membership on a regular basis.
+The jQuery Foundation's Board of Directors ("the board") will establish this committee, comprised of at least three members. One member will be designated chair of the group and will be responsible for all reports back to the board. The board will review membership on a regular basis.
 
 ### How the committee will respond to reports
 
