@@ -7,7 +7,7 @@ This is the enforcement manual followed by jQuery's Code of Conduct Committee. I
 
 ### The Code of Conduct Committee
 
-All responses to reports of conduct violations will be managed by a [Code of Conduct Committee](https://jquery.org/conduct/comittee/) ("the committee").
+All responses to reports of conduct violations will be managed by a [Code of Conduct Committee](https://jquery.org/conduct/committee/) ("the committee").
 
 The jQuery Foundation's Board of Directors ("the board") will establish this committee, comprised of at least three members. One member will be designated chair of the group and will be responsible for all reports back to the board. The board will review membership on a regular basis.
 
@@ -34,11 +34,11 @@ If the act is ongoing (such as someone engaging in harassment in #jquery), or in
 
 If the incident involves physical danger, any member of the committee may -- and should -- act unilaterally to protect safety. This can include contacting law enforcement (or other local personnel) and speaking on behalf of the jQuery Foundation.
 
-In situations where an individual group member acts unilaterally, they must report their actions to the comittee for review within 24 hours.
+In situations where an individual group member acts unilaterally, they must report their actions to the committee for review within 24 hours.
 
 ### Resolutions
 
-The comittee must agree on a resolution by consensus. If the group cannot reach consensus and deadlocks for over a week, the group will turn the matter over to the board for resolution.
+The committee must agree on a resolution by consensus. If the group cannot reach consensus and deadlocks for over a week, the group will turn the matter over to the board for resolution.
 
 Possible responses may include:
 
@@ -49,12 +49,12 @@ Possible responses may include:
 *   A permanent or temporary ban from some or all jQuery spaces (mailing lists, IRC, etc.). The group will maintain records of all such bans so that they may be reviewed in the future, extended to new jQuery fora, or otherwise maintained.
 *   A request for a public or private apology. The chair will deliver this request. The group may, if it chooses, attach "strings" to this request: for example, the group may ask a violator to apologize in order to retain his or her membership on a mailing list.
 
-Once a resolution is agreed upon, but before it is enacted, the committee will contact the original reporter and any other affected parties and explain the proposed resolution. The comittee will ask if this resolution is acceptable, and must note feedback for the record. However, the committee is not required to act on this feedback.
+Once a resolution is agreed upon, but before it is enacted, the committee will contact the original reporter and any other affected parties and explain the proposed resolution. The committee will ask if this resolution is acceptable, and must note feedback for the record. However, the committee is not required to act on this feedback.
 
 Finally the committee will make a report for the jQuery Foundation Board (as well as the project teams in the event of an ongoing resolution, such as a ban).
 
-The comittee will never publicly discuss the issue; all public statements will be made by the jQuery Foundation Board.
+The committee will never publicly discuss the issue; all public statements will be made by the jQuery Foundation Board.
 
 ### Conflicts of Interest
 
-In the event of any conflict of interest a comittee member must immediately notify the other members, and recuse themselves if necessary.
+In the event of any conflict of interest a committee member must immediately notify the other members, and recuse themselves if necessary.
