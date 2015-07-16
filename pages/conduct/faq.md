@@ -29,17 +29,17 @@ This Code of Conduct is all about how we interact as a community. It's about say
 
 Real-life events, however, require a bit more care. The jQuery Foundation wants to be sure that any events it funds have policies and procedures in place for handling harassment. It's especially important to us that real-life events take steps to protect the physical and mental security of their participants.
 
-So the jQuery Foundation will require that any events it funds have some sort of anti- harassment policy in place. The jQuery Foundation thinks the [Ada Initiative's template](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy) is pretty good, but we're open to alternatives.
+So the jQuery Foundation will require that all events it funds have some sort of anti- harassment policy in place. The jQuery Foundation thinks the [Ada Initiative's template](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy) is pretty good, but we're open to alternatives.
 
 ### What happens if someone violates the Code of Conduct?
 
-Our intent is that the anyone in the community can stand up for this code, and direct people who're unaware to this document. If that doesn't work, or if you need more help, you can contact [conduct@jquery.com](mailto:conduct@jquery.com). For more details please see our [Reporting Guidelines](https://www.jquery.org/conduct/reporting/)
+Our intent is that the anyone in the community can stand up for this Code, and direct people who're unaware to this document. If that doesn't work, or if you need more help, you can contact [conduct@jquery.com](mailto:conduct@jquery.com). For more details please see our [Reporting Guidelines](https://www.jquery.org/conduct/reporting/)
 
 ### Why do we need a Code of Conduct? Everyone knows not to be a jerk.
 
 Sadly, not everyone knows this.
 
-However, even if everyone was kind, everyone was compassionate, and everyone was familiar with codes of conduct it would still be incumbent upon our community to publish our own. Maintaining a code of conduct forces us to consider and articulate what kind of community we want to be, and serves as a constant reminder to put our best foot forward. But most importantly, it serves as a signpost to people looking to join our community that we feel these values are important.
+However, even if everyone were kind, compassionate, and familiar with codes of conduct, it would still be incumbent upon our community to publish our own. Maintaining a code of conduct forces us to consider and articulate what kind of community we want to be, and serves as a constant reminder to put our best foot forward. But most importantly, it serves as a signpost to people looking to join our community that we feel these values are important.
 
 ### This is censorship! I have the right to say whatever I want!
 

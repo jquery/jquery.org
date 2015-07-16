@@ -3,7 +3,7 @@
 	"pageTemplate": "page-conduct.php"
 }</script>
 
-This is the enforcement manual followed by jQuery's Code of Conduct Committee. It's used when we respond to an issue to make sure we're consistent and fair. It should be considered an internal document, but we're publishing it publicly in the interests of transparency.
+This is the enforcement manual followed by jQuery's Code of Conduct Committee. It's used when we respond to an issue to make sure we're consistent and fair. It should be considered an internal document, but we're publishing it publicly in the interest of transparency.
 
 ### The Code of Conduct Committee
 
@@ -13,7 +13,7 @@ The jQuery Foundation's Board of Directors ("the board") will establish this com
 
 ### How the committee will respond to reports
 
-When a report is sent to the committee they will immediately reply to the report to confirm receipt. This reply must be sent within 24 hours, and the group should strive to respond much quicker than that.
+When a report is sent to the committee they will immediately reply to the report to confirm receipt. This reply must be sent within 24 hours, and the group should strive to respond more quickly than that.
 
 See the [reporting guidelines](https://www.jquery.org/conduct/reporting/) for details of what reports should contain. If a report doesn't contain enough information, the committee will obtain all relevant data before acting. The committee is empowered to act on the jQuery Foundation's behalf in contacting any individuals involved to get a more complete account of events.
 
@@ -24,7 +24,7 @@ The committee will then review the incident and determine, to the best of their 
 *   who, if anyone, was the bad actor
 *   whether this is an ongoing situation, and there is a threat to anyone's physical safety
 
-This information will be collected in writing, and whenever possible the group's deliberations will be recorded and retained (i.e. IRC transcripts, email discussions, recorded voice conversations, etc).
+This information will be collected in writing, and whenever possible the group's deliberations will be recorded and retained (e.g. IRC transcripts, email discussions, or recorded voice conversations).
 
 The committee should aim to have a resolution agreed upon within one week. In the event that a resolution can't be determined in that time, the group will respond to the reporter(s) with an update and projected timeline for resolution.
 
@@ -44,9 +44,9 @@ Possible responses may include:
 
 *   Taking no further action (if we determine no violation occurred).
 *   A private reprimand from the committee to the individual(s) involved. In this case, the group chair will deliver that reprimand to the individual(s) over email, cc'ing the group.
-*   A public reprimand. In this case, the group chair will deliver that reprimand in the same venue that the violation occurred (i.e. in IRC for an IRC violation; email for an email violation, etc.). The group may choose to publish this message elsewhere for posterity.
-*   An imposed vacation (i.e. asking someone to "take a week off" from a mailing list or IRC). The group chair will communicate this "vacation" to the individual(s). They'll be asked to take this vacation voluntarily, but if they don't agree then a temporary ban may be imposed to enforce this vacation.
-*   A permanent or temporary ban from some or all jQuery spaces (mailing lists, IRC, etc.). The group will maintain records of all such bans so that they may be reviewed in the future, extended to new jQuery fora, or otherwise maintained.
+*   A public reprimand. In this case, the group chair will deliver that reprimand in the same venue that the violation occurred (e.g. in IRC for an IRC violation; email for an email violation). The group may choose to publish this message elsewhere for posterity.
+*   An imposed vacation (e.g. asking someone to "take a week off" from a mailing list or IRC). The group chair will communicate this "vacation" to the individual(s). They'll be asked to take this vacation voluntarily, but if they don't agree then a temporary ban may be imposed to enforce this vacation.
+*   A permanent or temporary ban from some or all jQuery spaces (including mailing lists and IRC). The group will maintain records of all such bans so that they may be reviewed in the future, extended to new jQuery fora, or otherwise maintained.
 *   A request for a public or private apology. The chair will deliver this request. The group may, if it chooses, attach "strings" to this request: for example, the group may ask a violator to apologize in order to retain his or her membership on a mailing list.
 
 Once a resolution is agreed upon, but before it is enacted, the committee will contact the original reporter and any other affected parties and explain the proposed resolution. The committee will ask if this resolution is acceptable, and must note feedback for the record. However, the committee is not required to act on this feedback.

@@ -9,7 +9,7 @@ If you believe someone is violating the code of conduct we ask that you report i
 
 In your report please include:
 
-*   Your contact info (so we can get in touch with you if we need to follow up)
+*   Your contact info (so we can get in touch with you if we need to follow up).
 *   Names (real, nicknames, or pseudonyms) of any individuals involved. If there were other witnesses besides you, please try to include them as well.
 *   When and where the incident occurred. Please be as specific as possible.
 *   Your account of what occurred. If there is a publicly available record (e.g. a mailing list archive or a public IRC logger) please include a link.  Screenshots can be useful in the case something is edited or deleted before action is taken.
@@ -19,7 +19,7 @@ In your report please include:
 
 ### What happens after you file a report?
 
-You will receive an email from the jQuery Foundation Code of Conduct Working Group acknowledging receipt immediately. We promise to acknowledge receipt within 24 hours (and will aim for much quicker than that).
+You will receive an email from the jQuery Foundation Code of Conduct Working Group acknowledging receipt immediately. We promise to acknowledge receipt within 24 hours (and will aim to do so more quickly than that).
 
 Members of the committee will immediately meet to review the incident and determine:
 
@@ -30,13 +30,13 @@ Members of the committee will immediately meet to review the incident and determ
 
 If this is determined to be an ongoing incident or a threat to physical safety, the immediate priority will be to protect everyone involved. This means we may delay an "official" response until we believe that the situation has ended and that everyone is physically safe.
 
-Once the committee has a complete account of the events they will make a decision as to how to response. Responses may include:
+Once the committee has a complete account of the events they will make a decision as to how to respond. Responses may include:
 
 *   Nothing (if we determine no violation occurred).
 *   A private reprimand from the committee to the individual(s) involved.
 *   A public reprimand.
-*   An imposed vacation (i.e. asking someone to "take a week off" from a mailing list or IRC).
-*   A permanent or temporary ban from some or all jQuery spaces (mailing lists, IRC, etc.)
+*   An imposed vacation (e.g. asking someone to "take a week off" from a mailing list or IRC).
+*   A permanent or temporary ban from some or all jQuery spaces (including online spaces such as mailing lists and IRC).
 *   A request for a public or private apology.
 
 We'll respond within one week to the person who filed the report with either a resolution or an explanation of why the situation is not yet resolved.
