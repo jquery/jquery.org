@@ -19,10 +19,10 @@ See the [reporting guidelines](https://www.jquery.org/conduct/reporting/) for de
 
 The committee will then review the incident and determine, to the best of their ability:
 
-*   what happened
-*   whether this event constitutes a code of conduct violation
-*   who, if anyone, was the bad actor
-*   whether this is an ongoing situation, and there is a threat to anyone's physical safety
+*   What happened.
+*   Whether this event constitutes a Code of Conduct violation.
+*   Who, if anyone, was the bad actor.
+*   Whether this is an ongoing situation, and if there is a threat to anyone's physical safety.
 
 This information will be collected in writing, and whenever possible the group's deliberations will be recorded and retained (e.g. IRC transcripts, email discussions, or recorded voice conversations).
 

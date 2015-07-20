@@ -19,31 +19,7 @@ In your report please include:
 
 ### What happens after you file a report?
 
-You will receive an email from the jQuery Foundation Code of Conduct Working Group acknowledging receipt immediately. We promise to acknowledge receipt within 24 hours (and will aim to do so more quickly than that).
-
-Members of the committee will immediately meet to review the incident and determine:
-
-*   What happened.
-*   Whether this event constitutes a code of conduct violation.
-*   Who the bad actor was.
-*   Whether this is an ongoing situation, or if there is a threat to anyone's physical safety.
-
-If this is determined to be an ongoing incident or a threat to physical safety, the immediate priority will be to protect everyone involved. This means we may delay an "official" response until we believe that the situation has ended and that everyone is physically safe.
-
-Once the committee has a complete account of the events they will make a decision as to how to respond. Responses may include:
-
-*   Nothing (if we determine no violation occurred).
-*   A private reprimand from the committee to the individual(s) involved.
-*   A public reprimand.
-*   An imposed vacation (e.g. asking someone to "take a week off" from a mailing list or IRC).
-*   A permanent or temporary ban from some or all jQuery spaces (including online spaces such as mailing lists and IRC).
-*   A request for a public or private apology.
-
-We'll respond within one week to the person who filed the report with either a resolution or an explanation of why the situation is not yet resolved.
-
-Once we've determined our final action, we'll contact the original reporter to let them know what action (if any) we'll be taking. We'll take into account feedback from the reporter on the appropriateness of our response, but we don't guarantee we'll act on it.
-
-Finally, the Working Group will make a report on the situation to the jQuery Foundation board. The board may choose to a public report of the incident.
+Reports will receive urgent and immediate attention from the Code of Conduct Committee. Please refer to the [Enforcement Manual](https://jquery.org/conduct/enforcement-manual) for the complete information on how reports will be processed. Though normally considered an internal document, it has been published in full in the interest of transparency.
 
 ### Appealing
 
