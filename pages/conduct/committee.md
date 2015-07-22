@@ -9,8 +9,9 @@ Committee Members:
 
 * Chair: Corey Frang
 * Anne-Gaelle Colom
+* Sarah Frisk
 * John Resig
 * Adam Sontag
 
-You can contact [conduct@jquery.com](mailto:conduct@jquery.com). For more details please see the [Reporting Guidelines](https://jquery.org/conduct/reporting/).
+You can contact [conduct@jquery.org](mailto:conduct@jquery.org). For more details please see the [Reporting Guidelines](https://jquery.org/conduct/reporting/).
 

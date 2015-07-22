@@ -3,7 +3,7 @@
 	"pageTemplate": "page-conduct.php"
 }</script>
 
-This FAQ attempts to address common questions and concerns around the jQuery community's [Code of Conduct](https://www.jquery.org/conduct/). If you still have questions after reading it, please feel free to [contact us](mailto:conduct@jquery.com).
+This FAQ attempts to address common questions and concerns around the jQuery community's [Code of Conduct](https://www.jquery.org/conduct/). If you still have questions after reading it, please feel free to [contact us](mailto:conduct@jquery.org).
 
 ### Why have you adopted a Code of Conduct?
 
@@ -33,7 +33,7 @@ So the jQuery Foundation will require that all events it funds have some sort of
 
 ### What happens if someone violates the Code of Conduct?
 
-Our intent is that the anyone in the community can stand up for this Code, and direct people who're unaware to this document. If that doesn't work, or if you need more help, you can contact [conduct@jquery.com](mailto:conduct@jquery.com). For more details please see our [Reporting Guidelines](https://www.jquery.org/conduct/reporting/)
+Our intent is that the anyone in the community can stand up for this Code, and direct people who're unaware to this document. If that doesn't work, or if you need more help, you can contact [conduct@jquery.org](mailto:conduct@jquery.org). For more details please see our [Reporting Guidelines](https://www.jquery.org/conduct/reporting/)
 
 ### Why do we need a Code of Conduct? Everyone knows not to be a jerk.
 
