@@ -14,6 +14,7 @@ This code of conduct applies to all spaces managed by the jQuery Foundation and 
 If you believe someone is violating the code of conduct, we ask that you report it by emailing conduct@jquery.org. For more details please see our [Reporting Guidelines](https://jquery.org/conduct/reporting/)
 
 * **Be friendly and patient.**
+We understand that we all have different levels of experience or knowledge in many diverse fields, be it technical or non technical in nature. We also have areas of knowledge we are eager to expand, and we want to be a community where people can not only contribute, but feel comfortable to ask questions as well and learn along the way. If someone is wrong, or says something accidentally offensive, respond with patience and try to keep it polite and civil. Remember that we all were newbies at one point.
 
 * **Be welcoming.** We strive to be a community that welcomes and supports people of all backgrounds and identities. This includes, but is not limited to members of any race, ethnicity, culture, national origin, color, immigration status, social and economic class, educational level, sex, sexual orientation, gender identity and expression, age, size, family status, political belief, religion, and mental and physical ability.
 
