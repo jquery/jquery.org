@@ -17,7 +17,7 @@ For the most part, we don't think it means large changes. We think that the text
 
 However, we do expect that people will abide by the spirit and words of the CoC when in "official" jQuery spaces. This code has been adopted by both the jQuery core team and by the jQuery Foundation. That means that it'll apply both in community spaces _and_ at jQuery Foundation events.
 
-In practice, this means the various jQuery IRC channels (<tt>#jquery</tt>, <tt>#jquery-dev</tt>, etc.), bug tracking and code review tools, and "official" jQuery events such as sprints. In addition, violations of this code outside these spaces may affect a person's ability to participate within them.
+In practice, this means the various jQuery IRC channels (#jquery, #jquery-dev, etc.), bug tracking and code review tools, and "official" jQuery events such as sprints. In addition, violations of this code outside these spaces may affect a person's ability to participate within them.
 
 ### What about events funded by the jQuery Foundation?
 
