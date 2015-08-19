@@ -15,8 +15,7 @@ A complete list of changes can always be found [on GitHub](https://github.com/jq
 
 <dl>
 
-<dt>July 12, 2015</dt>
-
-<dd>[Copied draft from Django Project](https://github.com/jquery/jquery.org/commit/39594102137e72b62503b2d9a1233a521c2403c7).</dd>
+<dt>Aug 19, 2015</dt>
+<dd>[Initial draft modified from Django Project](https://github.com/jquery/jquery.org/pull/105).</dd>
 
 </dl>
