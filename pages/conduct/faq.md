@@ -7,7 +7,7 @@ This FAQ attempts to address common questions and concerns around the jQuery Fou
 
 ### Why have you adopted a Code of Conduct?
 
-We think the jQuery Foundation community is awesome. If you're familiar with the jQuery foundation community, you'll probably notice that the Code basically matches what we already do. Think of this as documentation: we're taking implicit expectations about behavior and making them explicit.
+We think the jQuery Foundation community is awesome. If you're familiar with the jQuery Foundation community, you'll probably notice that the Code basically matches what we already do. Think of this as documentation: we're taking implicit expectations about behavior and making them explicit.
 
 We know that the jQuery Foundation community is open, friendly, and welcoming. We want to make sure everyone else knows it too.
 
@@ -17,7 +17,7 @@ For the most part, we don't think it means large changes. We think that the text
 
 However, we do expect that people will abide by the spirit and words of the CoC when in "official" jQuery Foundation spaces. This code has been adopted by the jQuery Foundation and all of its projects. That means that it'll apply both in community spaces _and_ at jQuery Foundation events.
 
-In practice, this means the various jQuery Foundaiton IRC channels (#jquery, #jquery-dev, etc.), bug tracking and code review tools, and "official" jQuery Foundation events such as sprints. In addition, violations of this code outside these spaces may affect a person's ability to participate within them.
+In practice, this means the various jQuery Foundation IRC channels (#jquery, #jquery-dev, etc.), bug tracking and code review tools, and "official" jQuery Foundation events such as sprints. In addition, violations of this code outside these spaces may affect a person's ability to participate within them.
 
 ### What about events funded by the jQuery Foundation?
 
