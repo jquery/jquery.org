@@ -3,7 +3,7 @@
 	"pageTemplate": "page-conduct.php"
 }</script>
 
-The Code of Conduct Committee deals with violations in the [jQuery Foundation Code of Conduct](https://jquery.org/conduct/).
+The Code of Conduct Committee deals with violations in the [jQuery Foundation Code of Conduct](/conduct/).
 
 Committee Members:
 
@@ -13,5 +13,4 @@ Committee Members:
 * John Resig
 * Adam Sontag
 
-You can contact [conduct@jquery.org](mailto:conduct@jquery.org). For more details please see the [Reporting Guidelines](https://jquery.org/conduct/reporting/).
-
+You can contact [conduct@jquery.org](mailto:conduct@jquery.org). For more details please see the [Reporting Guidelines](/conduct/reporting/).
