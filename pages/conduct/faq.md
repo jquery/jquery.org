@@ -3,7 +3,7 @@
 	"pageTemplate": "page-conduct.php"
 }</script>
 
-This FAQ attempts to address common questions and concerns around the jQuery Foundation's [Code of Conduct](https://jquery.org/conduct/). If you still have questions after reading it, please feel free to [contact us](mailto:conduct@jquery.org).
+This FAQ attempts to address common questions and concerns around the jQuery Foundation's [Code of Conduct](/conduct/). If you still have questions after reading it, please feel free to [contact us](mailto:conduct@jquery.org).
 
 ### Why have you adopted a Code of Conduct?
 
@@ -19,21 +19,17 @@ However, we do expect that people will abide by the spirit and words of the CoC 
 
 In practice, this means the various jQuery Foundation IRC channels (#jquery, #jquery-dev, etc.), bug tracking and code review tools, and "official" jQuery Foundation events such as sprints. In addition, violations of this code outside these spaces may affect a person's ability to participate within them.
 
-### What about events funded by the jQuery Foundation?
+### What about jQuery Foundation events?
 
-This Code of Conduct also covers any events that the jQuery Foundation funds. However, events funded by the jQuery Foundation already [require a code of conduct](https://jquery.org/conduct/). Isn't this redundant?
+This Code of Conduct also covers all [jQuery Foundation events](http://events.jquery.org/) since it is all about how we interact as a community. It's about saying that the jQuery Foundation community will be open, friendly, and welcoming. The core issue is about ensuring the conversations we have are productive and inviting for all.
 
-No: there's a difference between the two, and they're complementary.
+Real-life events, however, require a bit more care. The jQuery Foundation wants to be sure that all of its events have policies and procedures in place for handling harassment. It's especially important to us that real-life events take steps to protect the physical and mental security of their participants.
 
-This Code of Conduct is all about how we interact as a community. It's about saying that the jQuery Foundation community will be open, friendly, and welcoming. The core issue is about ensuring the conversations we have are productive and inviting for all.
-
-Real-life events, however, require a bit more care. The jQuery Foundation wants to be sure that any events it funds have policies and procedures in place for handling harassment. It's especially important to us that real-life events take steps to protect the physical and mental security of their participants.
-
-So the jQuery Foundation will require that all events it funds have some sort of anti- harassment policy in place. The jQuery Foundation thinks the [Ada Initiative's template](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy) is pretty good, but we're open to alternatives.
+So the jQuery Foundation will require that all events have some sort of anti-harassment policy in place. The jQuery Foundation thinks the [Ada Initiative's template](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy) is pretty good, but we're open to alternatives.
 
 ### What happens if someone violates the Code of Conduct?
 
-Our intent is that the anyone in the community can stand up for this Code, and direct people who're unaware to this document. If that doesn't work, or if you need more help, you can contact [conduct@jquery.org](mailto:conduct@jquery.org). For more details please see our [Reporting Guidelines](https://jquery.org/conduct/reporting/)
+Our intent is that anyone in the community can stand up for this Code, and direct people who are unaware of this document. If that doesn't work, or if you need more help, you can contact [conduct@jquery.org](mailto:conduct@jquery.org). For more details please see our [Reporting Guidelines](/conduct/reporting/).
 
 ### Why do we need a Code of Conduct? Everyone knows not to be a jerk.
 
