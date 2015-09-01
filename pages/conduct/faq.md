@@ -29,7 +29,7 @@ So the jQuery Foundation will require that all events have some sort of anti-har
 
 ### What happens if someone violates the Code of Conduct?
 
-Our intent is that anyone in the community can stand up for this Code, and direct people who are unaware to this document. If that doesn't work, or if you need more help, you can contact [conduct@jquery.org](mailto:conduct@jquery.org). For more details please see our [Reporting Guidelines](/conduct/reporting/).
+Our intent is that anyone in the community can stand up for this Code, and direct people who are unaware of this document. If that doesn't work, or if you need more help, you can contact [conduct@jquery.org](mailto:conduct@jquery.org). For more details please see our [Reporting Guidelines](/conduct/reporting/).
 
 ### Why do we need a Code of Conduct? Everyone knows not to be a jerk.
 
