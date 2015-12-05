@@ -20,7 +20,7 @@ Each project team decides its own criteria for team membership and duties. Team 
 
 ## Orientation
 
-Documentation for the processes shared by all teams is publicly available at http://contribute.jquery.org and includes things such as coding style and commit message formats. Teams may add their own guidelines or rules, and should document these so that new team members can quickly come up to speed. If a team member expects to be unavailable for an extended period, such as during travel or vacation, they should let their team(s) know.
+Documentation for the processes shared by all teams is publicly available at https://contribute.jquery.org and includes things such as coding style and commit message formats. Teams may add their own guidelines or rules, and should document these so that new team members can quickly come up to speed. If a team member expects to be unavailable for an extended period, such as during travel or vacation, they should let their team(s) know.
 
 ## Benefits
 

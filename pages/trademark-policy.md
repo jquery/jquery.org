@@ -21,14 +21,14 @@ The jQuery Foundation uses a number of trademarks to identify itself, its projec
 	* jQuery Conference ™
 	* jQuery Developer Summit ™
 * The "Logo Marks"
-	* [jQuery Logo](http://brand.jquery.org/resources/jquery-mark-light.gif) ™
-	* [jQuery Mobile Logo](http://brand.jquery.org/resources/jquerymobile-mark-light.gif) ™
-	* [jQuery UI Logo](http://brand.jquery.org/resources/jqueryui-mark-light.gif) ™
-	* [QUnit Logo](http://brand.jquery.org/resources/qunit-mark-light.gif) ™
-	* [Sizzle Logo](http://brand.jquery.org/resources/sizzle-mark-light.gif) ™
-	* [jQuery Developer Summit Logo](http://brand.jquery.org/resources/jquery-dev-summit-mark.gif) ™
+	* [jQuery Logo](https://brand.jquery.org/resources/jquery-mark-light.gif) ™
+	* [jQuery Mobile Logo](https://brand.jquery.org/resources/jquerymobile-mark-light.gif) ™
+	* [jQuery UI Logo](https://brand.jquery.org/resources/jqueryui-mark-light.gif) ™
+	* [QUnit Logo](https://brand.jquery.org/resources/qunit-mark-light.gif) ™
+	* [Sizzle Logo](https://brand.jquery.org/resources/sizzle-mark-light.gif) ™
+	* [jQuery Developer Summit Logo](https://brand.jquery.org/resources/jquery-dev-summit-mark.gif) ™
 
-These marks, whether formally registered with the United States Patent and Trademark Office or not, are all the exclusive property of the jQuery Foundation, and their use is subject to this policy and the [Brand Guide](http://brand.jquery.org). Any exceptions to this policy or the Brand Guide must be approved in writing by the Foundation.
+These marks, whether formally registered with the United States Patent and Trademark Office or not, are all the exclusive property of the jQuery Foundation, and their use is subject to this policy and the [Brand Guide](https://brand.jquery.org). Any exceptions to this policy or the Brand Guide must be approved in writing by the Foundation.
 
 ## General Guidelines
 
@@ -36,7 +36,7 @@ The general theme of this policy is that we will allow the broadest possible non
 
 In any proper use of the Marks, the following guidelines will always apply:
 
-* All use is subject to the [Brand Guide](http://brand.jquery.org);
+* All use is subject to the [Brand Guide](https://brand.jquery.org);
 * All Marks must be used in their exact form and may not be modified;
 * The first or most prominent use of a Mark must be accompanied by the proper trademark symbol (either ® or ™), as identified above;
 * A notice must be provided, either on the page with the Mark or on the credits page in the case of a website, or on the document with the Mark in the case of a document, that the Mark is a trademark of the jQuery Foundation and that your endeavor is not affiliated with the Foundation;
@@ -53,21 +53,21 @@ There are some uses that we think are simply too likely to cause confusion to ev
 
 ## Merchandising
 
-One of the ways in which the Foundation raises the funds necessary to support its open source projects is through merchandising, both by selling merchandise through licensed distributors and offering merchandise as an incentive to members, conference attendees, and the like. As such, the Marks may not be used in commercial or non-commercial merchandising of any kind. If you would like to purchase Foundation merchandise, please visit [DevSwag](http://devswag.com) or [join the Foundation](https://jquery.org/join/). If there’s merchandise you think we should be producing, please let us know at [info@jquery.org](mailto:info@jquery.org).
+One of the ways in which the Foundation raises the funds necessary to support its open source projects is through merchandising, both by selling merchandise through licensed distributors and offering merchandise as an incentive to members, conference attendees, and the like. As such, the Marks may not be used in commercial or non-commercial merchandising of any kind. If you would like to purchase Foundation merchandise, please visit [DevSwag](https://devswag.com) or [join the Foundation](https://jquery.org/join/). If there’s merchandise you think we should be producing, please let us know at [info@jquery.org](mailto:info@jquery.org).
 
 ## Commercial Software and Services
 
 An incredible community of developers and consultants has grown up around the Foundation and its projects, and while our mission is to promote the open web and we encourage the free exchange of developments, we are also glad that members of that community are able to use the work of the Foundation to make a living. As noted above though, any commercial use of the Marks is going to be more closely scrutinized and more restricted.
 
-To that end, the Foundation’s Word Marks may be used in conjunction with the commercial marketing of software built using and services surrounding the Foundation’s projects, provided of course that those uses are non-confusing and otherwise comply with this policy and the [Brand Guide](http://brand.jquery.org). Conversely, the Logo Marks may not be used in conjunction with the commercial marketing of software built using or services surrounding the Foundation’s projects, or for any other commercial purpose unless specifically authorized in writing by the Foundation. To request such authorization, write to [info@jquery.org](mailto:info@jquery.org).
+To that end, the Foundation’s Word Marks may be used in conjunction with the commercial marketing of software built using and services surrounding the Foundation’s projects, provided of course that those uses are non-confusing and otherwise comply with this policy and the [Brand Guide](https://brand.jquery.org). Conversely, the Logo Marks may not be used in conjunction with the commercial marketing of software built using or services surrounding the Foundation’s projects, or for any other commercial purpose unless specifically authorized in writing by the Foundation. To request such authorization, write to [info@jquery.org](mailto:info@jquery.org).
 
 ## Open Source Community Promotion
 
-One of our goals as a foundation is to support and promote the open source community at large, and we’ve been incredibly fortunate to receive an overwhelming amount of that same support and promotion back from the community. To keep that going and encourage that sense of community, we allow the use of all Marks in conjunction with non-commercial promotion of the Foundation and the open source community at large, including in the creation of plugins, repositories, personal websites, and social media accounts. Those uses, of course, remain subject to the [Brand Guide](http://brand.jquery.org) and the other guidelines outlined in this policy.
+One of our goals as a foundation is to support and promote the open source community at large, and we’ve been incredibly fortunate to receive an overwhelming amount of that same support and promotion back from the community. To keep that going and encourage that sense of community, we allow the use of all Marks in conjunction with non-commercial promotion of the Foundation and the open source community at large, including in the creation of plugins, repositories, personal websites, and social media accounts. Those uses, of course, remain subject to the [Brand Guide](https://brand.jquery.org) and the other guidelines outlined in this policy.
 
 ## Conferences
 
-As part of that non-commercial promotion, we encourage members of the open source community to put together meetups and conferences on their own to further the mission of the Foundation and the interests of the community. To that end, we allow the use of the Marks in conjunction with the promotion of non-commercial meetups and conferences in accord with the [Brand Guide](http://brand.jquery.org/events-conferences/). Importantly, as expanded on in the Brand Guide, jQuery ConferenceTM and jQuery Developer ConferenceTM are reserved for the exclusive use of the Foundation and may not be used for independent meetups and conferences.
+As part of that non-commercial promotion, we encourage members of the open source community to put together meetups and conferences on their own to further the mission of the Foundation and the interests of the community. To that end, we allow the use of the Marks in conjunction with the promotion of non-commercial meetups and conferences in accord with the [Brand Guide](https://brand.jquery.org/events-conferences/). Importantly, as expanded on in the Brand Guide, jQuery ConferenceTM and jQuery Developer ConferenceTM are reserved for the exclusive use of the Foundation and may not be used for independent meetups and conferences.
 
 ## Fair Use
 

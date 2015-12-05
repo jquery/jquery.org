@@ -1,8 +1,8 @@
 {
 	"/sponsors/": "/members/",
 	"/about/": "/",
-	"/meeting/": "http://meetings.jquery.org",
-	"/meetings/": "http://meetings.jquery.org",
-	"/updates/": "http://meetings.jquery.org",
-	"/feed/": "http://meetings.jquery.org/feed"
+	"/meeting/": "https://meetings.jquery.org",
+	"/meetings/": "https://meetings.jquery.org",
+	"/updates/": "https://meetings.jquery.org",
+	"/feed/": "https://meetings.jquery.org/feed"
 }
