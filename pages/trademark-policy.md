@@ -5,28 +5,34 @@
 
 The mission of the jQuery Foundation is to improve the open web, making it accessible for everyone through the development of open source software projects and collaboration with the development community. To that end, we provide individual open source projects with a top-level organizational structure and other resources that they need to produce the code that drives our shared mission. Over time, we’ve worked to make sure that contributors associate the jQuery name with a community with which they want to be a part, while developers and consumers associate our name with projects on which they know they can rely.
 
-The way that trust and good will is expressed legally is through our various trademarks, and so the purpose of this policy is to make clear how those marks can and cannot be used. Our goal in this policy is to balance the mission of the Foundation and the ethos of the open source movement with the need to make sure that contributors, developers, and the public-at-large can rely on the jQuery brand as an identifier of a thriving community and quality code. As with everything that we do, we welcome the feedback of the community on how well we meet that goal.
+The way that trust and good will is expressed legally is through our various trademarks, and so the purpose of this policy is to make clear how those marks can and cannot be used. Our goal in this policy is to balance the mission of the Foundation and the ethos of the open source movement with the need to make sure that contributors, developers, and the public-at-large can rely on the jQuery Foundation brand as an identifier of a thriving community and quality code. As with everything that we do, we welcome the feedback of the community on how well we meet that goal.
 
-## The jQuery Marks
+## The jQuery Foundation Marks
 
 The jQuery Foundation uses a number of trademarks to identify itself, its projects, and its general brand. These will be referred to as the "Marks", and include:
 
 * The "Word Marks"
 	* jQuery ®
-	* Write Less, Do More ™
-	* jQuery Mobile ™
-	* jQuery UI ™
-	* QUnit ™
-	* Sizzle ™
+	* Write Less, Do More ®
+	* jQuery Mobile ®
+	* jQuery UI ®
+	* QUnit ®
+	* Sizzle ®
 	* jQuery Conference ™
 	* jQuery Developer Summit ™
+	* Lodash ™
+	* RequireJS ™
+	* Globalize ™
 * The "Logo Marks"
-	* [jQuery Logo](http://brand.jquery.org/resources/jquery-mark-light.gif) ™
-	* [jQuery Mobile Logo](http://brand.jquery.org/resources/jquerymobile-mark-light.gif) ™
-	* [jQuery UI Logo](http://brand.jquery.org/resources/jqueryui-mark-light.gif) ™
-	* [QUnit Logo](http://brand.jquery.org/resources/qunit-mark-light.gif) ™
-	* [Sizzle Logo](http://brand.jquery.org/resources/sizzle-mark-light.gif) ™
+	* [jQuery Logo](http://brand.jquery.org/resources/jquery-mark-light.gif) ®
+	* [jQuery Mobile Logo](http://brand.jquery.org/resources/jquerymobile-mark-light.gif) ®
+	* [jQuery UI Logo](http://brand.jquery.org/resources/jqueryui-mark-light.gif) ®
+	* [QUnit Logo](http://brand.jquery.org/resources/qunit-mark-light.gif) ®
+	* [Sizzle Logo](http://brand.jquery.org/resources/sizzle-mark-light.gif) ®
 	* [jQuery Developer Summit Logo](http://brand.jquery.org/resources/jquery-dev-summit-mark.gif) ™
+	* [Lodash Logo](http://brand.jquery.org/resources/lodash.png) ™
+	* [RequireJS Logo](http://brand.jquery.org/resources/requirejs.png) ™
+	* [Globalize Logo](http://brand.jquery.org/resources/globalize-mark-light.gif) ™
 
 These marks, whether formally registered with the United States Patent and Trademark Office or not, are all the exclusive property of the jQuery Foundation, and their use is subject to this policy and the [Brand Guide](http://brand.jquery.org). Any exceptions to this policy or the Brand Guide must be approved in writing by the Foundation.
 
