@@ -4,8 +4,7 @@ module.exports = {
 	diamond: require( "./diamond" ),
 	platinum: require( "./platinum" ),
 	gold: require( "./gold" ),
-	silver: require( "./silver" ),
-	bronze: require( "./bronze" )
+	silver: require( "./silver" )
 };
 
 Object.keys( module.exports ).forEach(function( level ) {
