@@ -1,8 +1,20 @@
 {
-	"/sponsors/": "/members/",
-	"/about/": "/",
+	"/": "https://openjsf.org/",
+
+	"/about/": "https://openjsf.org/about/",
+	"/bylaws/": "https://bylaws.openjsf.org/",
+	"/conduct/": "https://code-of-conduct.openjsf.org/",
+	"/donate/": "https://openjsf.org/about/project-funding-opportunities/",
+	"/join/": "https://openjsf.org/about/join/",
 	"/meeting/": "https://meetings.jquery.org",
 	"/meetings/": "https://meetings.jquery.org",
+	"/members/": "https://openjsf.org/about/members/",
+	"/projects/": "https://openjsf.org/projects/",
+	"/projects/join/": "https://openjsf.org/about/join/",
+	"/sponsors/": "https://openjsf.org/about/members/",
+	"/team-members/": "https://contribute.jquery.org/",
+	"/trademark-policy/": "https://trademark-policy.openjsf.org/",
 	"/updates/": "https://meetings.jquery.org",
-	"/feed/": "https://meetings.jquery.org/feed"
+
+	"/feed/": "https://meetings.jquery.org/feed/"
 }

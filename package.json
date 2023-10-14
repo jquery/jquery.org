@@ -1,24 +1,7 @@
 {
   "name": "jquery.org",
-  "title": "jQuery Foundation",
+  "private": true,
   "version": "1.6.21",
-  "homepage": "https://github.com/jquery/jquery.org",
-  "author": {
-    "name": "jQuery Foundation and other contributors"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/jquery/jquery.org.git"
-  },
-  "bugs": {
-    "url": "https://github.com/jquery/jquery.org/issues"
-  },
-  "licenses": [
-    {
-      "type": "MIT",
-      "url": "https://github.com/jquery/jquery.org/blob/master/LICENSE.txt"
-    }
-  ],
   "dependencies": {
     "github-request": "1.2.4",
     "grunt": "1.5.3",
