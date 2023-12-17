@@ -1,7 +1,7 @@
 {
   "name": "jquery.org",
   "private": true,
-  "version": "1.6.23",
+  "version": "1.6.24",
   "dependencies": {
     "grunt": "1.5.3",
     "grunt-jquery-content": "3.3.1"
